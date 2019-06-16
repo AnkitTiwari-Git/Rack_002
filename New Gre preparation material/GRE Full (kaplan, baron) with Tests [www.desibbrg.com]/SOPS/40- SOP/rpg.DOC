@@ -1,0 +1,105 @@
+\documentstyle[a4wide,11pt]{report}
+\pagestyle{empty}
+\begin{document}
+\begin{center}	{\Large \bf Statement of Purpose}  \end{center}
+
+	My decision to apply for a {\bf Ph.D.} program at {\bf 
+University of Utah} is driven by my aspirations to pursue a research career in
+the field of Computer Science. This field interests me because of its
+formal and rigorous mathematical nature and its wide-ranging
+applications. I believe that a strong and thorough background as well
+as complete awareness of recent developments are essential for an
+intellectually stimulating and satisfying research career. Towards
+realizing this objective at an esteemed department such as yours, I am
+applying to your university. An objective analysis of my background,
+interests, strengths and weaknesses leads me to believe that I will be
+successful both as a Ph.D. candidate and later as a researcher in an
+academic milieu. 
+
+\
+
+	Academics has always been my strong-hold. My inquisitive
+nature and a strong desire to ingrain the fundamental principles as
+well as techniques of any subject of study has enabled me to achieve
+an excellent academic record. More importantly, it has inculcated in
+me the methodology of scientific inquiry as reflected in my rigorous
+and analytic approach to problem solving. This is further evident from
+my performance at higher-secondary school level and at IIT Bombay. The
+excellent course structure at IIT has given me a sound and broad
+conceptual basis, which, I believe, is essential for a research
+career. Through many projects I have undertaken in a stimulating
+academic environment at IIT where learning and research go
+hand-in-hand, I have found that I have a deep  interest in research
+work, a strong motivation and an aptitude for the type of problem
+solving it involves. 
+
+\
+
+	Over the past two years at IIT, I have cultivated a keen interest
+in the field of {\bf Asynchronous Circuits, Formal Design Methods in VLSI}. I
+have furthered my knowledge in this field by reading various related
+articles and am actively involved in research in this area. I  have
+also opted for a graduate level course {\bf IC Design Technology} in Spring
+96. I am currently working on {\bf Asynchronous Communication between
+Synchronous Finite State Machines} for my B.Tech. thesis under the
+guidance of {\bf Prof. S. Ramesh}. I am working towards implementing
+communication primitives such as {\bf rendezvous, probe} etc. at gate level
+in VLSI circuits. I am investigating different interconnect design
+methodologies which can be implemented as {\bf delay-insensitive
+asynchronous circuits}. In the first stage of this work, we have
+proposed a {\bf new protocol} to implement {\bf asynchronous rendezvous 
+communication} and a method to implement this protocol using asynchronous 
+circuits. I  firmly believe that this project is a sufficient 
+demonstration of my ability to conduct original and independent 
+research.  
+
+\
+
+	I have strong reasons to believe that I possess the
+temperament for teaching, a good power of speech and a thorough and
+extensive knowledge of my field : traits required for a successful
+teaching career. I have worked as a teaching assistant in a
+nation-wide teaching program for two years. I have also been lecturer
+and tutor for three {\bf UNIX workshops} conducted by {\bf CSEA, IIT Bombay} 
+which were attended by more than 250 people every time. This experience 
+developed and honed my skills of organizing and communicating my thoughts 
+in front of a responsive and critical audience. 
+
+\
+
+	I have always attempted to gain insight into the problem at hand
+and tackle it from different angles. I am well aware that a career in
+research calls for personal commitment and personal sacrifice of time,
+leisure and immediate reward. However, my desire to realize my full
+potential and to make an original contribution to the field of
+Computer Science drive me to pursue a research career, which, I
+believe, will give me intellectual satisfaction, gratification of
+becoming a contributor to knowledge and personal rewards of learning
+and discovery. I not only possess the intellectual ability, sound
+preparation and the strong motivation for research but also consider
+myself mature, friendly to work with and open to criticism : qualities
+essential for group research. 
+
+\
+
+	I believe that a symbiotic relationship between the student
+and his department is of utmost importance for a successful graduate
+program. Considering the pioneering work going on at your department
+in the field of my interest, your department is an ideal choice for an
+exciting research career. At the same time, I am confident of
+contributing originally to the ongoing work at your department. By
+working under the guidance of distinguished faculty at your
+department, I am sure, I will be able to exploit my potential to the
+fullest.
+
+\
+
+	Keeping this in mind, I look forward to joining {\bf  
+University of Utah}. 
+
+\
+
+\begin{flushright}
+{\bf Ghughal Rajnish P}
+\end{flushright}
+\end{document}

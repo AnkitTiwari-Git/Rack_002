@@ -1,0 +1,520 @@
+   	 	 	
+			
+  ?? > GRE > ????? ?1??
+
+
+1.TILE: MOSAIC::
+(A) wood: totem
+(B) stitch: sampler
+(C) ink: scroll
+(D) pedestal: column
+(E) tapestry: rug
+
+2.REDOUBTABLE: AWE::
+(A) tart: pungency
+(B) tacit: solitude
+(C) despicable: contempt
+(D) engrossing: obliviousness
+(E) venerable: renown
+
+3. COMPLAIN: CARP::
+(A) supply: donate
+(B) argue: debate
+(C) grumble: accuse
+(D) drink: guzzle
+(E) pacify: intervene
+
+4. SKIRMISH: INSIGNIFICANCE::
+(A) revolution: democracy
+(B) duel: formality
+(C) feud: impartiality
+(D) bout: sparring
+(E) crusade: remoteness
+
+5. MERCENARY: MONEY::
+(A) vindictive: revenge
+(B) scholarly: library
+(C) immaculate: cleanliness
+(D) thirsty: water
+(E) belligerent: invasion
+
+6. TROUBLED: DISTRAUGHT::
+(A) annoyed: disillusioned
+(B) disturbed: interrupted
+(C) covetous: rapacious
+(D) outmoded: ostentatious
+(E) tranquil: placid
+
+7. CANVAS: PAINTER::
+(A) leather: shoe
+(B) brush: palette
+(C) chisel: wood
+(D) marble: sculptor
+(E) hammer: carpenter
+
+8. MANSION: RESIDENCE::
+(A) limousine: automobile
+(B) chandelier: candle
+(C) tuxedo: wardrobe
+(D) diamond: rhinestone
+(E) yacht: harbor
+
+9. RELEVANT: CRUCIAL::
+(A) marginal: unique
+(B) perceptible: obvious
+(C) apparent: real
+(D) peripheral: central
+(E) possible: desirable
+
+10. PERFUNCTORILY: INSPIRATION::
+(A) insolently: veneration
+(B) ardently: passion
+(C) phlegmatically: composure
+(D) surreptitiously: obsession
+(E) haltingly: reluctance
+
+11. FERTILIZE: GROW::
+(A) immunize: resist
+(B) nourish: enrich
+(C) heat: burn
+(D) graft: multiply
+(E) prune: dwarf
+
+12. EXORBITANT: MODERATION::
+(A) dispassionate: equanimity
+(B) macabre: interest
+(C) perfidious: loyalty
+(D) brilliant: gullibility
+(E) lavish: extravagance
+
+13. BLANDISHMENT: COAX::
+(A) medal: honor
+(B) budget: save
+(C) diary: reminisce
+(D) concert: play
+(E) plea: threaten
+
+14. REQUEST: COMMAND::
+(A) propose: stipulate
+(B) enlist: support
+(C) relegate : consign
+(D) volunteer: accept
+(E) select: reject
+
+15.RENOUNCE: PLEDGE::
+(A) exculpate: victim
+(B) desecrate: shrine
+(C) recriminate: hero
+(D) redeem: honor
+(E) rescind: order
+
+16. COWARD: CRAVEN::
+(A) liar: facetious
+(B) dupe: gullible
+(C) commentator: caustic
+(D) judge: impartial
+(E) criminal: hostile
+
+17. APOLOGIZE: CONTRITE::
+(A) aggravate: contemptuous
+(B) endorse: esteemed
+(C) extenuate: guilty
+(D) compliment: impressed
+(E) rationalize: modest
+
+18. EUPHEMISM: OFFENSE::
+(A) rhetoric: persuasion
+(B) prevarication: truth
+(C) metaphor: description
+(D) repetition: boredom
+(E) conciliation: appeasement
+
+19. SENSITIZATION: ALLERGIC::
+(A) immunity: vulnerable
+(B) habituation: inured
+(C) invigoration: stimulating
+(D) sleep: anesthetic
+(E) disinfection: preventive
+
+20. HOST: PARASITE::
+(A) meadow: soil
+(B) egg: bird
+(C) medium: bacterium
+(D) lair: predator
+(E) kernel: seed
+
+21. SOLILOQUY: PLAY::
+(A) violin: concerto
+(B) overture: musical
+(C) duet: ensemble
+(D) lyric: poem
+(E) aria: opera
+
+22. CONTRACT: IMPLODE::
+(A) expand: swell
+(B) descend: plummet
+(C) add: accelerate
+(D) cool: solidify
+(E) stretch: flex
+
+23. COHABIT: RESIDE::
+(A) conspire: plot
+(B) coincide: contradict
+(C) secrete: conceal
+(D) infiltrate: influence
+(E) frame: incriminate
+
+24. STRATAGEM: DECEIVE::
+(A) epithet: correspond
+(B) oration: publish
+(C) conservation: expend
+(D) concession: placate
+(E) sentence: prosecute
+
+25. INDUSTRIOUSNESS: ACTIVITY::
+(A) kindliness: animosity
+(B) anxiousness: apathy
+(C) boldness: strength
+(D) purposefulness: enthusiasm
+(E) fastidiousness: selectivity
+
+26. EXTRAVAGANCE: EXPENDITURE::
+(A) bias: judgment
+(B) exaggeration: deception
+(C) inducement: invitation
+(D) loquaciousness: talk
+(E) distortion: paraphrase
+
+27. OBSEQUIOUS: FAWN::
+(A) unsuccessful: achieve
+(B) conscientious: shirk
+(C) compliant: yield
+(D) staid: laugh
+(E) amenable: argue
+
+28. NEOPHYTE: EXPERIENCE::
+(A) diplomat: negotiation
+(B) misanthrope: cynicism
+(C) umpire: reconciliation
+(D) guru: respect
+(E) boor: sensitivity
+
+
+keys: BCDBA CDABA ACAAE BDBBC EBADE DCE
+
+
+   	 	 	
+			
+  ?? > GRE > ????? ?2??
+
+
+1. MELODRAMA: SUBTLETY::(A) chimera: authenticity
+(B) parody: wit
+(C) war: strategy
+(D) brief: abstract
+(E) hypothesis: theory
+
+2. LIMERICK: POEM::(A) lampoon: satire
+(B) setting: play
+(C) fable: moral
+(D) material: collage
+(E) plot: character
+
+3. INFILTRATE: ENTER::(A) comply: index
+(B) invade: assault
+(C) allege: prove
+(D) insinuate: say
+(E) disclose: announce
+
+4. IMPORTUNE: REQUEST:: (A) pry: inquiry
+(B) balk: obstacle
+(C) fulminate: silence
+(D) discountenance: plea
+(E) vitiate: punishment
+
+5. DAGUERREOTYPE: PHOTOGRAPH::(A) bust: statue
+(B) pastiche: painting
+(C) narrative: novel
+(D) hieroglyphic: papyrus
+(E) musket: firearm
+
+6. INDISTINGUISHABLE: CONFOUND::(A) exceptional: overlook
+(B) impregnable: attack
+(C) ostentatious: consume
+(D) equivalent: interchange
+(E) occluded: reveal
+
+7. PREEMINENCE: IMPORTANCE::(A) predestination : belief
+(B) prefiguration : reality
+(C) premeditation: execution
+(D) predisposition : preference
+(E) preponderance : weight
+
+8. DECIPHER: HIEROGLYPH::(A) transcribe: recording
+(B) separate: component
+(C) transmute: metal
+(D) break: code
+(E) edit: text
+
+9. PILLORY: RIDICULE::(A) badge: challenge
+(B) guillotine: execute
+(C) rope: chastise
+(D) knife: frighten
+(E) cell: blame
+
+10. HUBRIS: PRIDE::(A) flattery: praise
+(B) revenge: jealousy
+(C) whim: humor
+(D) awe: prestige
+(E) dread: courage
+
+11. LAW: JUDGMENT::(A) jury: verdict
+(B) data: collection
+(C) information: decision
+(D) news: message
+(E) sample: population
+
+12. MOTIVE: DEED::(A) goal: need
+(B) means: method
+(C) regret: retribution
+(D) doubt: question
+(E) hope: fulfillment
+
+13. CORONA: SUN::
+
+(A) wheel: axle
+(B) spark: flame
+(C) kernel: corn
+(D) comet: tail
+(E) atmosphere: planet
+
+14. CONSTRUCT: REMODEL::(A) exhibit: perform
+(B) compose: edit
+(C) demolish: repair
+(D) quantify: estimate
+(E) predict: assess
+
+15. MIRTH: LAUGHTER::(A) uncertainty: nod
+(B) approval: applause
+(C) danger: alarm
+(D) labor: sweat
+(E) love: respect
+
+16. PARSIMONY: MISER::(A) temerity: despot
+(B) belligerence: traitor
+(C) remorse: delinquent
+(D) equanimity: guardian
+(E) rebelliousness: insurgent
+
+17. NITPICK: CRITICIZE::
+
+(A) mock: imitate
+(B) complain: argue
+(C) interrogate: probe
+(D) fret: vex
+(E) cavil: object
+
+18. ANONYMOUS: IDENTIFY::
+
+(A) nonchalant: excite
+(B) repressed: constrain
+(C) misled: trust
+(D) annoying: assist
+(E) unremarkable: please
+
+19. INSENSITIVE: BOOR::
+
+(A) spontaneous: extrovert
+(B) mischievous: imp
+(C) conformist: ally
+(D) officious: zealot
+(E) extravagant: miser
+
+20. EUPHEMISM: OFFENSIVE::
+
+(A) rhetoric: persuasive
+(B) aphorism: diffuse
+(C) metaphor: descriptive
+(D) repetition: fatiguing
+(E) conciliation: appeasing
+
+
+21. FLIPPANT:
+
+(A) evenly distributed
+(B) well coordinated
+(C) inflexible
+(D) sane
+(E) earnest
+
+22. NEXUS:
+
+(A) disconnected components
+(B) tangled threads
+(C) lost direction
+(D) unseen obstacle
+(E) damaged parts
+
+23. LEVY:
+
+(A) reconsider
+(B) relinquish
+(C) repatriate
+(D) revitalize
+(E) rescind
+
+24. GROUSE:
+
+(A) rejoice
+(B) rekindle
+(C) restore
+(D) reject
+(E) reflect
+
+25. GIST:
+
+(A) tangential point
+(B) tentative explanation
+(C) faulty assumption
+(D) flawed argument
+(E) meaningless distinction
+
+26.EFFRONTERY:
+
+(A) decorum
+(B) candor
+(C) resolution
+(D) perplexity
+(E) mediation
+
+27. LIMPID:
+
+(A) rampant
+(B) vapid
+(C) turbid
+(D) rigid
+(E) resilient
+
+28. STABILIZE:
+
+(A) penetrate
+(B) minimize
+(C) fluctuate
+(D) analyze
+(E) isolate
+
+29. RENOVATE:
+(A) design to specifications
+(B) keep hidden
+(C) cause to decay
+(D) duplicate
+(E) complicate
+
+30. PROFUSE:
+
+(A) sequential
+(B) shoddy
+(C) scant
+(D) surly
+(E) supreme
+
+31. ANCHOR:
+
+(A) unwind
+(B) unbend
+(C) disjoin
+(D) disrupt
+(E) dislodge
+
+32. NADIR:
+(A) immobile object
+(B) uniform measurement
+(C) extreme distance
+(D) topmost point
+(E) regular phenomenon
+
+33. APPROBATION:
+(A) disinclination
+(B) stagnation
+(C) condemnation
+(D) false allegation
+(E) immediate repulsion
+
+34. FATUOUSNESS:
+(A) sensibleness
+(B) courage
+(C) obedience
+(D) aloofness
+(E) forcefulness
+
+key:
+
+
+AADAE DEDBA CDEBB EEABB
+EAEAA ACCCC EDCA
+
+
+   	 	 	
+			
+  ?? > GRE > ????? ?3??
+
+
+1. OVERDOSE: PRESCRIPTION::
+(A) deprivation: materialism
+(B) indiscretion: convention
+(C) affliction: sympathy
+(D) adventure: expedition
+(E) drug: medicine
+
+2. ATTENTIVE: OFFICIOUS::
+(A) doubtful: ambiguous
+(B) absorbed: engrossed
+(C) refined: snobbish
+(D) magisterial: authoritative
+(E) impromptu: spontaneous
+
+3.ENFRANCHISE: VOTE::
+(A) advertise: sell
+(B) fumigate: kill
+(C) filter: purify
+(D) illuminate: see
+(E) ignite: burn
+
+4. EXULT: SATISFACTION::
+(A) crave: longing
+(B) banter: conversation
+(C) emote: affectation
+(D) venture: rashness
+(E) bore: weariness
+
+5. ATTACK: VANQUISHED::
+(A) woo: adored
+(B) smother: choked
+(C) spy: investigated
+(D) goad: provoked
+(E) guess: calculated1
+
+6. DERIDE:
+(A) emulate
+(B) reward
+(C) condone
+(D) show respect for
+(E) extend favor to
+
+7. COMMOTION:
+(A) desirability
+(B) likability
+(C) propensity
+(D) changeability
+(E) tranquillity
+
+8. INDETERMINATE:
+(A) qualified
+(B) definite
+(C) stubborn
+(D) effective
+(E) committed
+
+KEY: BCDAD DEB
+
+

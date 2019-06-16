@@ -1,0 +1,3573 @@
+
+here is a collection of lots of sops of lots of seniors. browse.
+
+according to chacko.. (addressed to our batch)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+> As for SOPs, don't worry too much. All of you have good writing skills as
+> I can see from your various news postings! Anyway, my advice on this
+> matter is:
+> [1] Have a look at some SOPs *now* or early next sem.
+> [2] When it's time to write your own SOP, do it *fully* by yourself. Do
+>     not look at anybody else's SOP.
+> [3] Having made version 1.0 of your SOP, *now* take a look at as many
+>     SOPs as you can of guys in your area. Borrow points from then which
+>     you think are good.
+> [4] Your SOP does not have to be too big. We at IITB tend to write long
+>     SOPs (1.5 to 2 pages) whereas IITM guys (who get better schols!)
+>     usually write 0.75 page (max. 1 page). Basically, their SOPs are much
+>     more direct and to-the-point than ours.
+> [5] REMEMBER THAT A SOP *MUST* BE ORIGINAL.
+
+also look at ~dubby/phundej for some more sop stuff.
+
+				-- Sitaram Iyer <sitaram.iyer@usa.net>
+
+  [Part 2, Application/X-TEX  5.7KB]
+  [Unable to print this part]
+
+
+  [Part 3, Application/X-TEX  5.2KB]
+  [Unable to print this part]
+
+
+  [Part 4, Application/X-TEX  5.6KB]
+  [Unable to print this part]
+
+
+  [Part 5, Application/X-TEX  4.4KB]
+  [Unable to print this part]
+
+
+  [Part 6, Application/X-TEX  5.7KB]
+  [Unable to print this part]
+
+
+  [Part 7, Application/X-TEX  4.9KB]
+  [Unable to print this part]
+
+
+  [ Part 8: "Attached Text" ]
+
+>From sid Tue Dec  3 05:45:26 1996
+Return-Path: sid
+Received: (from sid@localhost) by cse.iitb.ernet.in (8.7.5/8.7.3) id FAA08827 for amitc; Tue, 3 Dec 1996 05:45:26 +0530 (IST)
+Date: Tue, 3 Dec 1996 05:45:26 +0530 (IST)
+From: "Siddhartha A. Mathur" <sid>
+Subject: Moses's SOP
+Message-Id: <199612030015.FAA08827@cse.iitb.ernet.in>
+Content-Type: text
+Status: RO
+
+>From kvr@cse.iitb.ernet.in Mon Dec  2 23:46:52 1996
+Return-Path: kvr@bhishma.cse.iitb.ernet.in
+Received: from bhishma.cse.iitb.ernet.in (bhishma [144.16.111.25]) by cse.iitb.ernet.in (8.7.5/8.7.3) with ESMTP id XAA06620 for <sid@kailash>; Mon, 2 Dec 1996 23:46:51 +0530 (IST)
+Received: (from kvr@localhost) by bhishma.cse.iitb.ernet.in (8.7.Beta.13/8.7.Beta.13) id XAA13953; Mon, 2 Dec 1996 23:47:13 +0530 (IST)
+Date: Mon, 2 Dec 1996 23:47:13 +0530 (IST)
+From: Raghavan K V <kvr@cse.iitb.ernet.in>
+Message-Id: <199612021817.XAA13953@bhishma.cse.iitb.ernet.in>
+To: sid@bhishma.cse.iitb.ernet.in
+Subject: Moses' SOP
+Reply-to: kvr@cse.iitb.ernet.in
+Status: RO
+
+    Statement of Purpose
+
+	I am applying to Stanford University for admission 
+to the Ph.D. program in Computer Science. I am interested in
+Theoretical Computer Science, particularly in the Design
+and Analysis of Approximation Algorithms, Combinatorics and
+Complexity Theory.
+
+	My interest in Mathematics goes back to the time I
+was at school. This interest has only grown through my years
+in school and high school, as I have learnt more and more about
+the subject. Having represented India at the International
+Mathematical Olympiads on two occasions, I have been exposed
+to elements of Discrete Mathematics, particularly Combinatorics
+and Graph Theory, outside the regular school curriculum at 
+an early stage. The intensive training programs we were put 
+through for the Olympiads have given me a lot of confidence in 
+dealing with abstract mathematical problems.
+	
+	My exposure to Computer Science began after 
+I entered the Indian Institute of Technology (IIT), Bombay.
+The excellent facilities, courses and faculty have given me a
+firm background of the fundamentals in Computer Science.
+Having been exposed to the various facets of Computer Science
+in the course of my undergraduate studies, I have found 
+Theoretical Computer Science most intellectually satisfying 
+and stimulating. Courses like `Discrete Structures', 
+`Data Structures and Algorithms', `Theory of Computation' and
+`Algorithms and Complexity' have been my firm favorites.
+I find the problems in Theoretical Computer Science particularly
+appealing because of the flavor of abstract mathematics that
+I love so much. At the same time, the problems in this field
+have a concrete basis, originating from practical problems in
+Computer Science. This adds to their appeal.
+
+	Recently, a lot of exciting developments have taken place in the 
+field of approximation algorithms. The Markov chain approach and the
+primal/dual approach have emerged as powerful techniques for the 
+development of approximation algorithms. More recently, semi-definite 
+programming has been used to obtain approximation algorithms for 
+optimization problems.  An interesting connection with results in 
+Interactive Proof Systems has yielded lower bounds on the approximability 
+of various problems. I believe that these methods have a lot of 
+potential. A lot of the pioneering work in these areas has been done 
+by members of the faculty at Stanford. Prof. Rajeev Motwani has been 
+involved in the work on Interactive Proof Systems and semi-definite 
+programming.  I have read about these results in the course of my 
+seminar (Junior Thesis), my summer training at the Tata Institute 
+of Fundamental Research (TIFR), Bombay, and my B.Tech. project 
+(Senior Thesis). I find them very fascinating and intend to work 
+with problems of a similar flavor.
+
+	I am convinced that I should pursue a career in research and teaching.
+For me, problem solving is an exhilarating experience, unequaled
+by anything else. It would be immensely gratifying for me to be
+able to contribute something to the understanding of a subject that 
+has given me so much pleasure and joy. It would also be wonderful to 
+have the opportunity to share with others that feeling of pleasure and 
+joy, through teaching.  My few experiences with teaching, as a tutor 
+for an undergraduate course and as a lecturer in student workshops, 
+have evoked favorable responses and have been thoroughly enjoyable.
+I believe that I have the capacity to make the commitment and 
+accept the challenges that a career in research involves. I am 
+confident that I have the requisite aptitude, exposure and motivation 
+to make a meaningful contribution to my chosen field.
+
+	My summer training at TIFR has given me the experience of 
+working in an organization oriented towards research. In the course
+of the two months I spent there, my interaction with the Theoretical 
+Computer Science group has taught me a lot of things and also whet
+my appetite for more knowledge. I realize how important it is, as a
+researcher, to interact with other people working in the same field,
+and at the same time, be able to work individually.
+
+	A good research career can only be built above the firm foundation 
+of a good education. With my long term goal in mind, my immediate
+objective is to work towards a Ph.D. in Computer Science. Having done
+my undergraduate studies at undoubtedly one of the best undergraduate
+institutions in India, I would consider it my privilege to be able to
+pursue my doctoral studies at Stanford University and avail of the
+excellent infrastructural facilities and research opportunities it has
+to offer. I am sure that the stimulating academic environment and 
+interaction with the distinguished faculty at Stanford will prove 
+immensely fruitful and facilitate my development as an individual 
+researcher in my field. I feel that Stanford has a lot to offer me,
+and at the same time, I am confident that I would be able to make a 
+positive contribution to on-going research work at Stanford.
+
+	Having decided that I will engage in the pursuit of a career in 
+research, I am fully aware of the implications. I am aware of the
+kind of dedication, resilience and resolve that it calls for. I feel
+that I am adequately prepared, both in having the technical 
+qualifications, and in having the right mind-set for doctoral level
+research work. I look forward to a long and mutually beneficial 
+relationship with Stanford University.
+
+
+Charikar Moses Samson 
+
+
+
+
+  [Part 9, Application/X-TEX  3.8KB]
+  [Unable to print this part]
+
+
+  [Part 10, Application/X-TEX  4.9KB]
+  [Unable to print this part]
+
+
+  [Part 11, Application/X-TEX  5.5KB]
+  [Unable to print this part]
+
+
+  [Part 12, Application/X-TEX  4.8KB]
+  [Unable to print this part]
+
+
+  [ Part 13: "Attached Text" ]
+
+                Statement of Purpose
+
+My objective for graduate  studies  in  Computer  Science  is  to
+prepare  myself  for  the  long term goal of pursuing a career of
+teaching and research. 
+I have  nurtured  a  strong  passion  to
+become  a  scientist  and  pursue  research.  In  the  pursuit of
+knowledge , I have always adopted a rigorous approach in order to
+attain  an in-depth understanding of the subject at hand.This has
+amply  reflected  in  my  consistently  brilliant   career,always
+topping  the  class  and  having received numerous national level
+awards.With a GPA of 9.72 , I am ranked first at  the  IIT  among
+nearly 350 students. 
+
+
+I have been involved in  research  in  parallel  and  distributed
+computing  systems.I  studied  various  problems  in  distributed
+systems and distributed databases  including  deadlock  detection
+and  resolution  ,  termination detection , distributed snapshots
+and consistency.I  have  been  attracted  towards  the  field  of
+correctness  of parallel programs. I published a Technical Report
+reporting errors in two published deadlock  detection  algorithms
+and  highlights their underlying deficiencies with respect to the
+distributed nature of computation.  I am  also  involved  in  the
+development  of  an  optimizer generator which would automate the
+process of writing optimizers based on the specifications of  the
+optimizations.I  am  currently  engaged  in writing a paper on an
+efficient algorithm for performing global data-flow analysis. The
+new  algorithm  that  I  have  developed  utilizes  the notion of
+backward information flow to perform propagation using work-lists
+in  an  efficient  manner.  I  have  been  in correspondence with
+Professor J.D.Ullman about my algorithm and other aspects of  the
+problem.
+
+
+I have chosen to pursue graduate studies at  Stanford  University
+because  by  working  under  the  guidance  of  the distinguished
+researchers I am confident of making an original contribution  in
+the  field  of  Computer  Science.  My  interest  in research has
+burgeoned during my undergraduate studies at IIT. I have excelled
+in  our  the well-rounded  and exacting undergraduate program and
+have developed a solid background to take up research in Computer
+Science.             
+
+I have decided to go in for graduate studies which  calls  for  a
+personal  commitment   to  the  fulfilling  craft  of independent
+research and that involves willingly making  personal  sacrifices
+of time , leisure and immediate reward  .  In  turn  I shall  get
+intellectual  satisfaction  and  the gratification of becoming  a
+contributor  to   knowledge   through  research  and  the greater
+personal rewards of  learning  and  discovery.I  believe  that  I
+possess  the  motivation, intellectual ability and preparation to
+set  out  on  this  exhiliarating  and  arduous  path and to make
+significant original  contributions  to  your  on-going  research
+work.
+
+
+I look  forward  to  joining Stanford University as  a  graduate
+student at your esteemed department.
+
+                                                Amit Ganesh
+
+
+  [Part 14, Application/X-TEX  5.7KB]
+  [Unable to print this part]
+
+
+  [ Part 15: "Attached Text" ]
+
+\documentclass[10pt]{article}
+\pagestyle{empty}
+\parskip 8pt
+\textheight 10in
+\textwidth 6.3in
+\topmargin -2cm
+\oddsidemargin 0cm
+
+\begin{document}
+\begin{center} {\LARGE \bfseries \slshape Personal Statement} \end{center}
+
+%	GOALS-SECTION
+
+I, {\bf Amit Chakrabarti}, am applying to Princeton University for admission to
+the {\bf Ph.D. program} in {\bf Computer Science}. My research interests lie
+in the field of {\bf Theoretical Computer Science}. More specifically, I am
+interested in the Design and Analysis of Algebraic, Combinatorial and Number
+Theoretic Algorithms as well as their applications. Other areas that interest
+me are Theory of Computation, Complexity Theory and Geometric Algorithms.
+
+My long-term goal is to be actively involved with research and teaching in an
+area that I love. I look forward to such an involvement as a faculty member at
+a reputed university. A Ph.D. in one of the aforementioned areas would be the
+crucial first step towards this goal.
+
+%	PERSONAL-BACKGROUND-SECTION
+
+\subsection*{\sc Personal background}
+Both my parents have done their Ph.D.'s in Mathematics and my father is an
+active researcher in Applied Mathematics. This had inculcated in me a love for
+Mathematics right from my school days. On the other hand, I entered school in
+the same year in which the ``personal computer revolution'' began in India;
+therefore I have, in some sense, ``grown up with computers''. My interest in
+Theoretical Computer Science is the combined result of these two influences.
+
+%	MATHS-BACKGROUND-SECTION
+
+\subsection*{\sc Mathematical background}
+While in high school, I was involved with the Mathematical Olympiad program
+and this culminated in my being awarded a silver medal at the 34th
+International Mathematical Olympiad. As a result of this involvement, I was
+exposed to basic Combinatorics, Graph Theory and Number Theory at an early
+age. Moreover, the intensive training-cum-selection program I underwent has
+honed my skills and bolstered my confidence in problem solving. It has also
+whetted my appetite for problem solving and made me a regular reader of the
+problem sections of periodicals like {\em American Mathematical Monthly} and
+{\em Mathematics Magazine}.
+
+I was chosen, by the National Board of Higher Mathematics, as one of 18
+undergraduates all over India to participate in their nurture program, in
+parallel with my formal undergraduate training. The resulting three-year-long
+interaction with the School of Mathematics of the prestigious Tata Institute
+of Fundamental Research (TIFR), has given me a substantial background in
+advanced mathematics (including Group, Ring and Field Theory, Linear Algebra,
+Real and Complex Analysis, Measure Theory and Topology). As part of this
+year's program, I am studying Commutative Algebra, Algebraic Number Theory and
+Functional Analysis.
+
+I hope to put my mathematical background to good use in my research work.
+
+%	CS-BACKGROUND-SECTION
+
+\subsection*{\sc Computer Science background}
+I am currently a senior undergraduate student of the Indian Institute of
+Technology (IIT), Bombay, majoring in Computer Science and Engineering. I had
+chosen this department for its academically stimulating atmosphere, excellent
+faculty and broad spectrum of courses, many of which have a strong
+mathematical flavor.
+
+Now, having acquired a firm foundation in the various areas of Computer
+Science, I am sure that my forte is Theoretical Computer Science. I find that
+my motivation, as well as my aptitude, is the strongest in this field: I have
+secured the highest possible grade (AA) in all the five theory courses that I
+have taken at IIT Bombay, namely, {\em Discrete Structures, Data Structures
+and Algorithms, Design and Analysis of Algorithms, Theory of Computation} and
+{\em Operations Research}.
+
+I have further enhanced my Theory background by opting for theoretical topics
+in my {\em Seminar} (junior thesis) and my {\em B.Tech.\ Project} (senior
+thesis). The former involved studies in Commutative Algebra and Computational
+Algebra, while the latter has involved Combinatorial Algorithms, Graph Theory
+and Randomized Algorithms and will soon involve Approximation Algorithms and
+applications of graph partitioning to VLSI design.
+
+%	RESEARCH-PLANS-SECTION
+
+\subsection*{\sc Research plans}
+I find Algorithms and Complexity theory the most appealing areas of Computer
+Science because of their many beautiful results together with their numerous
+applications to real-life problems in Databases, Operating Systems, Graphics,
+Compilers and so on. I am fascinated with the enormous potential for research
+in these areas which has been revealed to me in my {\em Seminar} and {\em
+B.Tech.\ project} and that is what I envisage myself doing a decade from now.
+
+Since problem solving is the most enjoyable and rewarding experience I have
+ever known, and since it is an integral part of a career in research and
+teaching in Theoretical Computer Science, I am convinced that such a career is
+the right choice for me. I am eager to contribute something to a subject that
+has given me so much joy. I am also enthusiastic about being involved in its
+teaching, as teaching a subject enhances one's own understanding of it.
+
+%	WHY-THIS-UNIV-SECTION
+
+\subsection*{\sc Choosing Princeton}
+Princeton University has one of the world's very best Theoretical Computer
+Science groups. An opportunity to interact with this group would be a golden
+one for any budding theoretician.
+
+>From a careful study of the department's brochures and the advice of the
+faculty at IIT Bombay, I have realized that Princeton can provide me with a
+perfect environment for directing my mental resources towards independent
+research. I am confident of meeting the high standards of Princeton; my active
+involvement and enthusiasm in my undergraduate studies, which is amply
+reflected in my being ranked {\bf first in the institute}, should serve as
+proof of my possessing the necessary qualities.
+
+%	CONCLUDING-SECTION
+
+\subsection*{\sc Conclusion}
+Keeping in mind my long-term goals, my immediate objective is to work towards
+a Ph.D. in Computer Science. I am aware of the kind of dedication,
+perseverance and resolve I need to have for a fruitful career in research and
+teaching. I believe my background has not only qualified me technically but
+also given me the right mind-set for such a career.
+
+I look forward to joining as a graduate student in your department and having
+a long and mutually profitable association with Princeton University.
+
+\vspace{1.5cm}
+\noindent {\large \bf (Amit Chakrabarti) \hfill Date}
+
+\end{document}
+
+  [ Part 16: "Attached Text" ]
+
+\documentclass[12pt]{article}
+\usepackage{a4wide}
+\pagestyle{empty}
+\begin{document}
+\begin{center}
+{\bf \Large Statement of Purpose} \\
+\end{center}
+\vspace{1cm}
+
+%
+% Statement of long term goals
+% Academic acievements
+% Brief desc. of field of study
+% Experience in field of study
+% Univ para
+%
+
+\
+
+After carefully considering my aptitude, interests, the nature of my
+training and my ultimate professional ambition, I have decided to
+pursue a {\em Doctoral degree} in Computer Science, in my fields of
+interest -- {\em Computer Graphics} and {\em Computational Geometry},
+ultimately leading to a career in teaching and research. As a
+statement of purpose of my graduate study, I describe here my academic
+background, research interests and career goals.
+
+\ 
+
+I have excelled in academics at every stage of my education. In the
+twelve years of my schooling, I have always been ranked first or second in
+my class. I stood  $111^{th}$ out of 100,000 candidates in the
+highly competitive examination for admission to the undergraduate
+program at the Indian Institutes of Technology. In the Regional
+Mathematics Olympiad 1990, I was ranked $6^{th}$ in my home
+state of Maharashtra.
+
+\
+
+The excellent undergraduate program at the Indian Institute of
+Technology, Bombay not only provided me with a strong foundation of
+Computer Science fundamentals, but also exposed me to various fields
+of Computer Science. I have always been interested in problems
+involving visualization. At IIT, this led to an inclination towards
+Computer Graphics and Computational Geometry. I substantiated my
+knowledge in these areas by choosing graduate level electives in
+Advanced Computer Graphics and Geometric Algorithms. I am currently
+working on my year long B.Tech Project (senior thesis) titled {\em
+Triangulations in 3 Dimensions}, under the guidance of Dr. Sharat
+Chandran. In this thesis we are looking at decompostions of polyhedra
+into simplices with an emphasis on obtaining well shaped tetrahedra.
+
+ \
+
+%%% Seminar
+I am also interested in Multimedia technology. In my third year, I
+presented a home paper titled {\em Multimedia Databases} under the
+guidance of Dr. S. Seshadri. In this paper, our study was focussed on
+issues involved in the storage and real time retrieval of multimedia
+objects in a multi-user environment. 
+
+\
+
+%
+% teaching and work experience
+%
+
+My years at IIT Bombay have given me substantial teaching
+experience. I have delivered lectures at Workshops on Unix conducted
+by the department and have been a teaching assistant for an
+introductory course in programming. This has built in me a lot of
+confidence that is required to excel as a teacher. 
+
+\
+
+Though my experiences in IIT Bombay have provided me with a strong
+foundation in my fields of interest, a good graduate program is
+necessary not only to increase my knowledge in these fields but to
+mould me into a good researcher. I am fully aware of the hard work and
+perseverance required for a successful career in research and I
+believe that I have the aptitude and drive to meet the challenge.
+
+\
+
+%
+% univ Para. 
+%
+ 
+The Graduate program at SUNY, Stony Brook is fully suited to my
+goals. Graphics and Computational Geometry are strong areas of
+research at Stony Brook. I have found the faculty and the research
+work to be quite impressive. I feel that to be associated with this
+group would stand me in good stead throughout my research career. I
+have also been impressed by the computing facilities available at
+Stony Brook for research and education. My B.Tech Project advisor has
+also strongly encouraged me to apply to your program.  I am confident
+that given the opportunity, I will be able to make significant
+contributions to the ongoing research at Stony Brook.
+
+\
+
+I corresponded with Prof. Arie Kaufman whose encouraging reply
+reinforced my decision to apply to Stony Brook. 
+
+\
+
+I look forward to joining SUNY, Stony Brook as a graduate student at
+your esteemed department.
+
+\vspace{1.5cm}
+\flushright{ \bf Manish K Vora}
+\end{document}
+
+
+
+	
+
+
+
+  [ Part 17: "Attached Text" ]
+
+steedman@linc.cis.upenn.edu
+-----------------------------------------------------------------------------
+
+>From :
+----
+
+Vinay Gupta,
+Indian Institute of Technology,
+Bombay, INDIA.
+
+
+To :
+--
+
+Professor
+
+
+Dear Professor,
+
+	I am a final (fourth) year Bachelor of Technology student
+of Computer Science and Engineering at the Indian Institute of
+Technology (I. I. T.), Bombay. I am keen on joining the Graduate
+program (MS / PhD, preferably PhD) at your University, and have
+received the application materials. I have made a keen perusal of
+the technical brochure provided along with the application form,
+and have noted that your research interests concur with my areas of
+interest, which are :
+
+	(1) Artificial Intelligence, specifically Learning and
+	    Natural Language Processing.
+	(2) Neural networks and neural modeling.
+
+	Sir, I am writing to you because I wish to have some more
+specific information regarding the research activities in these
+fields at your University, and my chances of admission to the
+Graduate program at your University. I would be grateful if you
+could spare some time in evaluating my credentials, which I have
+summarized below (I have also enclosed a copy of the bio-data form
+which I had earlier sent to your University) :
+
+	I am doing my undergraduate study at I. I. T. Bombay, one
+of the premier institutes of advanced technical education in India.
+I have maintained a consistent Grade Point Average, my Cumulative
+Performance Index being 8.43 (on a scale of 10).
+
+	My credit seminar (junior thesis) was on "Human and
+Artificial Intelligence". I concentrated on some aspects of
+intelligence, especially Knowledge Representation, Memory, and
+Learning, both from the human and the computer perspective. It
+involved an extensive literature survey, and a presentation at the
+end.
+
+	My final-year project (senior thesis) is on "Word
+Recognition and Spell Checking using ART-based Neural Networks".
+Working under the Adaptive Resonance Theory paradigm (developed by
+Stephen Grossberg and Gail Carpenter), a neural network is to be
+trained to recognize English words, and make intelligent
+suggestions in case of spelling or grammatical mistakes. We are
+also studying other models of learning for this purpose. My guide
+is Professor Pushpak Bhattacharya.
+
+	As my financial resources are limited, I would be
+requesting financial aid from your Department or University, in the
+form of TA / RA / Fellowship. I have some teaching experience, as I
+am a course assistant for a Fresher course, "Computer Programming
+and Utilization". This involves engaging weekly tutorial classes,
+evaluating term papers, programming assignments, etc.
+
+	Sir, I would be extremely grateful if you would devote some
+of your valuable time in making a frank appraisal of my chances of
+gaining admission to your University with full financial aid. I
+would really like to work under your guidance for my post-graduate
+studies. I shall be eagerly awaiting your reply.
+
+	Thanking you,
+
+				Yours Sincerely,
+				Vinay Gupta
+
+_____________________________________________________________________
+		
+			BIO - DATA
+			----------
+
+Name 		: Vinay Shiam Gupta
+
+Home address 	: 42 / 11, Raliway Colony,
+		  Malad (East), Bombay,
+		  India 400 097
+
+Citizen of	: India
+Marital Status	: Unmarried
+Date of birth	: 2nd December, 1971
+
+Educational Background :
+----------------------
+
+Degree / Certificate	Date Awarded 		Performance
+--------------------	------------		-----------
+
+(1) Secondary School	1987			623 / 700 (89 %)
+    Certificate					(1st in school)
+    (Matriculation, 
+    from Fatima Devi
+    English High School)
+
+(2) Higher Secondary	1989			563 / 600 (93.8 %)
+    Certificate					(7th in city of 
+    (K. C. College,
+    Bombay)
+						Bombay)
+
+(3) Bachelor of		May, 1993		8.43 / 10
+    Technology		(Expected)		(at the end of
+    (I. I. T., 					six semesters)
+    Bombay)
+    
+
+		
+Objective tests taken :
+---------------------
+
+(1) GRE : June 1991,  Score : 2370 (Verbal : 770
+				   Quant  : 800
+				   Anal   : 800)
+
+(2) TOEFL : Taken on 24th October, 1992
+
+(3) GRE Subject test in Computer Science : Taken on 10th October, 1992
+
+
+
+Years of instruction through	: 15 years  
+the medium of English
+
+Years of formal study		: 12 years  
+the English language
+
+Junior thesis	: "Human and Artificial Intelligence"
+Senior thesis	: "Word Recognition and Spell Checking
+		   using ART-based neural networks"
+
+Practical Training : (May and June 1992) At Tata Electric Cos. (R & D).
+		     Study of CASE tools, work on automatic 
+		     documentation generator.
+
+Financial support : I shall be requesting financial aid from the
+		    University. I will not be requesting aid from
+		    other sources.
+
+Education Plan     : I wish to apply for the term beginning
+		     AUG / SEPT 1993 as a candidate for Master's /
+		     Doctoral degree in the field of Computer Science
+____________________________________________________________________
+
+                         STATEMENT  OF  PURPOSE
+                        ------------------------
+It is after a good deal of self-evaluation that I have decided to pursue 
+graduate studies in Computer Science leading to a doctorate. This decision
+followed naturally after carefully considering my academic background,
+the areas of my interest, and my ultimate professional ambition, which is to
+pursue a research career, either as a teaching faculty member, or in an 
+R & D department of the industry.
+
+My undergraduate education at IIT Bombay has provided me with a strong 
+and comprehensive background in Computer Science. The curriculum included
+all the  basic courses such as Data Structures and Algorithms, Discrete 
+Structures, Computer Organization and Design, Systems Programming, Theory of
+Computation, etc.
+
+I had always been fascinated by the field of Artificial Intelligence, which
+is why I chose the topic of "Human and Artificial Intelligence" for my junior
+thesis. The literature survey that this entailed exposed me to the fundamental
+concepts, as also the research work in progress, in the various domains of
+Artificial Intelligence. I concentrated on issues involved in  Natural Language
+Processing and Knowledge Representation.
+
+My B. Tech. project (senior thesis) is "Word Recognition, Spell Checking  and
+Correction using ART-based neural networks". We are investigating the use of
+neural networks, configured under the Adaptive Resonance Theory paradigm, for
+the task of detecting spelling mistakes in English text and generating good
+suggestions for incorrectly spelled words.  This guided independent work has
+given me a good understanding of the theoretical, experimental and computational
+skills required in Computer Science.
+
+
+
+I have been a teaching assistant for the introductory course "Computer
+Programming and Utilization" conducted by Prof. R.D. Kumar of the Computer
+Science department. I have also helped in organizing, and given a lecture
+on the "VI" editor, during the UNIX workshop conducted by the Computer
+Science and Engineering Association of our Department. 
+
+	There are two reasons why I believe that graduate study in a reputed 
+department, such as yours, is important for a person aspiring for a research
+career. Firstly, working for a thesis under the guidance of an expert whose
+work can serve as a model is the most effective method of transforming
+a student into a largely independent researcher making significant original
+contributions.  Secondly, the emphasis of graduate study on intensive and
+independent study of a specialized area is an ideal way of
+making a student capable of reaching the frontiers of knowledge in a subfield
+quickly and keeping abreast of the latest developments.
+
+I feel that  			with its comprehensive facilities and competent faculty
+doing quality research work in the field of Artificial Intelligence will be
+the ideal place for me to pursue graduate studies. The working atmosphere
+of a vigorously active department will be helpful in motivating me towards
+excellence.
+
+      In short, I believe that a good graduate program is an essential step for
+realising my professional ambition of becoming a competent researcher. I also
+believe that I possess the motivation, intellectual ability and preparation
+to do justice to a demanding graduate program. My excellent undergraduate
+record, and my high GRE scores are testimony to that.
+I, therefore, look forward to joining your department as a graduate student.
+
+
+     17  cmu
+     14  cornell
+      7  mit
+     13  stanford
+      3  ucb
+      3  ucdavis
+      3  uchico
+      4  uci
+      3  ucla
+     13  ucsb
+      7  ucsd
+     30  uiuc
+     25  utexas
+    396  vin
+     11  washington
+     17  yale
+    566  total
+
+  [ Part 18: "Attached Text" ]
+
+
+                         STATEMENT  OF  PURPOSE
+                        ------------------------
+It is after a good deal of self-evaluation that I have decided to pursue 
+graduate studies in Computer Science leading to a doctorate. This decision
+followed naturally after carefully considering my academic background,
+the areas of my interest, and my ultimate professional ambition, which is to
+pursue a research career, either as a teaching faculty member, or in an 
+R & D department of the industry.
+
+My undergraduate education at IIT Bombay has provided me with a strong 
+and comprehensive background in Computer Science. The curriculum included
+all the  basic courses such as Data Structures and Algorithms, Discrete 
+Structures, Computer Organization and Design, Systems Programming, Theory of
+Computation, etc.
+
+I had always been fascinated by the field of Artificial Intelligence, which
+is why I chose the topic of "Human and Artificial Intelligence" for my junior
+thesis. The literature survey that this entailed exposed me to the fundamental
+concepts, as also the research work in progress, in the various domains of
+Artificial Intelligence. I concentrated on issues involved in  Natural Language
+Processing and Knowledge Representation.
+
+My B. Tech. project (senior thesis) is "Word Recognition, Spell Checking  and
+Correction using ART-based neural networks". We are investigating the use of
+neural networks, configured under the Adaptive Resonance Theory paradigm, for
+the task of detecting spelling mistakes in English text and generating good
+suggestions for incorrectly spelled words.  This guided independent work has
+given me a good understanding of the theoretical, experimental and computational
+skills required in Computer Science.
+
+
+
+I have been a teaching assistant for the introductory course "Computer
+Programming and Utilization" conducted by Prof. R.D. Kumar of the Computer
+Science department. I have also helped in organizing, and given a lecture
+on the "VI" editor, during the UNIX workshop conducted by the Computer
+Science and Engineering Association of our Department. 
+
+	There are two reasons why I believe that graduate study in a reputed 
+department, such as yours, is important for a person aspiring for a research
+career. Firstly, working for a thesis under the guidance of an expert whose
+work can serve as a model is the most effective method of transforming
+a student into a largely independent researcher making significant original
+contributions.  Secondly, the emphasis of graduate study on intensive and
+independent study of a specialized area is an ideal way of
+making a student capable of reaching the frontiers of knowledge in a subfield
+quickly and keeping abreast of the latest developments.
+
+I feel that  			with its comprehensive facilities and competent faculty
+doing quality research work in the field of Artificial Intelligence will be
+the ideal place for me to pursue graduate studies. The working atmosphere
+of a vigorously active department will be helpful in motivating me towards
+excellence.
+
+      In short, I believe that a good graduate program is an essential step for
+realising my professional ambition of becoming a competent researcher. I also
+believe that I possess the motivation, intellectual ability and preparation
+to do justice to a demanding graduate program. My excellent undergraduate
+record, and my high GRE scores are testimony to that.
+I, therefore, look forward to joining your department as a graduate student.
+
+  [ Part 19: "Attached Text" ]
+
+\documentstyle{report}
+\pagestyle{empty}
+\begin{document}
+\begin{center}	{\Large \bf Statement of Purpose}  \end{center}
+
+\subsubsection*{My Long Term Goals}
+My undergraduate training in the Department of Computer Science and Engineering at the Indian Institute of Technology, Bombay,
+has exposed me to a stimulating academic environment where learning and research go hand--in--hand. Through the many
+opportunities I have had here, I have found that I have a deep interest in research work and a strong aptitude for the
+type of problem solving and problem discovery that it involves. I have, therefore, decided to pursue active research in
+Computer Science as a career.
+
+\subsubsection*{My Areas of Interest}
+Of the many fields in the Computer Science spectrum, I am especially interested in Computer Systems. Within this field,
+I am interested in 
+computer networks, distributed systems, operating systems and distributed operating systems. My junior seminar work,
+my practical training and my courses have given me plenty of exposure to these areas and I feel that I have sufficient
+motivation and aptitude to work in this field.
+
+I am also interested in Programming Language design and Programming Systems. I have worked in these areas in my 
+summer project at TIFR and in my ongoing B. Tech. project. I would like to continue to learn about these areas in 
+my graduate program.
+ 
+\subsubsection*{My Immediate Goals}
+I plan to work towards a Ph. D. program with a focus on Distributed and Parallel Operating Systems. I would also like to follow up my interests
+in Computer Networks, Distributed Systems, Operating Systems and Programming Languages through my course work. I feel that this should be my 
+next step on my road to a research career in Computer Science.
+
+\subsubsection*{Why Duke?}
+I have selected Duke as the place for me to continue with my education because I found that the Graduate Program in 
+Computer Science suited my needs perfectly. I have found the Duke Computer Science Department faculty and the research
+being carried out in Computer Systems, especially in Distributed Operating Systems, to be very impressive.
+I feel that to be associated with this group for the many years of my Ph. D. would stand me in good stead for my research
+career. I have also been impressed by the computing facilities available at Duke for research and education. These are
+much superior to those available to a graduate student in India. Taking all these factors into  account, I feel that
+Duke is the perfect place for my graduate studies and I am confident that I will make a positive contribution to the
+ongoing research work at Duke.
+
+\subsubsection*{Am I Prepared?}
+My undergraduate preparation at the Computer Science and Engineering Department of the Indian Institute of Technology, Bombay,
+has given me a very substantial knowledge of the basic areas of Computer Science. Through my junior seminar work, I have acquired a good knowledge
+of distributed operating systems and the problems they entail. It also exposed me to the broad
+fields of computer networks, distributed systems and operating systems. I have also been exposed to practical 
+computer networks and network programming in the course of my practical training at the State Bank of India, Head Office.
+My course projects have given me plenty of experience in programming using various programming languages, software 
+packages and operating systems. I have selected {\em Introduction to Computer Networks} as an elective course in 
+the seventh semester so as to broaden my knowledge in this area. Therefore, I feel confident that I have acquired 
+both a broad base in Computer Science and a strong foundation in Computer Systems.
+
+\subsubsection*{Summing Up}
+I am aware of the hard work and perseverence necessary for research work and I know that it is not always as exciting as
+the published results seem to indicate. Nevertheless, I am sure that my aptitude and drive will see me through the 
+challenge. I hope to have a long and mutually profitable association with Duke.
+\begin{tabbing}
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\= \kill
+\>ASHIS TARAFDAR\\
+\end{tabbing}
+
+
+\end{document}
+
+
+
+  [ Part 20: "Attached Text" ]
+
+\documentstyle[12pt,a4wide]{article}
+\begin{document}
+\pagestyle{empty}
+\begin{center}
+%\underline{\Large \bf Statement of Purpose}
+\underline{\large \bf Statement of Purpose}
+\end{center}
+\input{/users/ug91/thombre/general/app/apps/mysop/message}
+%
+%\section*{Introduction}
+
+I, Rahul Thombre, am a senior student of the Bachelor of Technology program
+in Computer Science and Engineering at the Indian Institute of Technology,
+Bombay. I am applying for graduate studies in Computer Science leading to a
+Ph.D. I see this as a first step towards achieving my career objective of
+research in an academic environment. 
+%
+%\section*{Academic Background}
+
+I have excelled in academics right from my school days. In school, I
+consistently used to secure one of the top positions in the class.
+In my twelfth standard examinations, I was placed in the merit position at
+an All India level. I have always been attracted towards subjects that
+draw upon one's  analytical abilities. Thus, Mathematics and Physics were
+my favorite subjects. I was placed among the top 1\% of the candidates who
+appeared for the National Search Examination in Physics all over
+India. Later, I secured the 97$^{\mbox{th}}$ position among the 80,000
+candidates who appeared throughout India for the Joint Entrance Examination. 
+This examination is conducted by the IIT's, the premier engineering
+institutions of India, for selecting the best of Indian talent.
+%
+%\section*{Computer Science Background}
+
+The undergraduate program at IIT aims to strike a balance between the
+theoretical as well as the practical aspects of Computer Science. This has
+given me a sound understanding of the fundamentals at both the theoretical
+as well as practical levels.
+
+I have performed reasonably well in my undergraduate courses at IIT, but
+since IIT admits only the best students throughout the country, I 
+believe, in view of the competitive atmosphere, that the grades secured
+should not be considered in an absolute sense.
+
+During the course of the B.Tech. program I have developed a keen interest
+in the fields of Computer Graphics, Algorithms and Operating
+Systems. At present I am working under the guidance of Dr.\ Sharat Chandran 
+on my home paper titled {\em Physically Based Modeling}. As a junior, I had
+presented a seminar on {\em Associative--Commutative Matching and
+Unification}. I have included a brief summary of both these separately.
+%
+%\section*{Purpose of Doctoral Study and Career Goals}
+
+During the course of my education at IIT,  I  have  realized  and
+felt  convinced that my true liking and aptitude lies in research
+and teaching. Research and teaching go  hand  in  hand.  Teaching
+gives one a sense of constructive participation in the education
+process. Research enables a person to  stay  in  touch  with  the
+latest  advances,  while  making  one's  own contributions to the
+field. I have also had a good deal of teaching experience as an 
+undergraduate teaching assistant during my junior year for the freshman
+course {\em Computer Programming and Utilization}. I have included a brief
+description of this and relevant certificates to substantiate my claim.
+
+I believe that graduate education is not merely a continuation of
+college  studies.  I think that  graduate  education  is  process,  in
+which the student learns how to do independent research. 
+
+My decision to apply to UNIV is based on a careful examination of
+the department bulletin and the research interests of the faculty
+members. I have contacted PROF, who has encouraged me to apply.
+I would really love working under his guidance for my Ph.D.
+I believe that graduate education at your University will enhance
+my  knowledge,  give me wide exposure and develop my abilities to
+do independent research. I  consider  myself  an enthusiastic and 
+hardworking person, and I am sure that my stay your university will be a 
+very fruitful one.
+\end{document}
+
+  [Part 21, Application/X-TEX  4.7KB]
+  [Unable to print this part]
+
+
+  [ Part 22: "Attached Text" ]
+
+\documentstyle[11pt,a4wide]{letter}
+\pagestyle{empty}
+\begin{document}
+
+\begin{center}
+{\huge {\bf Statement of purpose} }
+\end{center}
+%
+\vspace{1cm}
+%
+{\Large {\bf My goals}}\\
+I am applying to the PhD program in Computer Science at Brown University.
+After considering my aptitude and the 
+ type of work that I enjoy most, I am convinced that
+I want to take up a career in research in Computer Science.
+A PhD is just one step towards realising this goal.
+
+\ \\
+{\Large {\bf My preparation for the same}}\\
+My formal introduction to Computer Science began at IIT-Bombay. Under
+its excellent faculty, I got exposed to  the entire spectrum of
+Computer Science. In an environment that is intensely competitive, and where
+research goes hand-in-hand with learning, I also got a lot of drill in
+both theoretical research work and implementation, thus laying a sound
+foundation for graduate study.
+
+My academic and co-curriculur record has been consistently good. Throughout
+school as well as now, I have been at or near the top of my class. I have
+listed some of my achievements, on the attached resum\'{e}.
+What I would like to stress most  however is the fact that I have been
+{\em consistent} in {\em all} academic or co-curriculur (and even 
+extracurriculur) tasks that I have undertaken.
+
+\ \\
+{\Large {\bf My primary interests}}\\
+ I have always loved problems which
+ involve plenty of visualisation. At IIT, this resulted in
+ an inclination towards {\bf Computer Graphics} and 
+{\bf Computational Geometry}, and also Algorithms.
+ {\em These are the subjects that I
+want to pursue in my graduate study}.
+
+I chose the elective {\em
+Computer Graphics} and a graduate level course {\em Algorithms and
+Complexity} this semester, in line with these interests. My B.Tech. Project
+ (home paper), under {\bf Dr.Sharat Chandran},
+is on {\bf Visible Surface Determination} (hidden surface removal), a very
+popular topic in Computational Geometry.
+
+
+\ \\
+{\Large {\bf Why Brown University ?}}\\
+It would be a clich\'{e} to say that all fields in 
+Computer Science are highly interlinked.
+ I have  experienced this myself, since frequently, while working on a
+problem in one field, I have (through abstraction/ reduction/ analogy)
+landed up looking at another problem, that one would normally put under
+a different field altogether.
+
+Hence, two criteria that I considered while selecting a university
+for my Ph.D. were
+\begin{enumerate}
+\item the university must be very strong in {\bf Computational Geometry} 
+and/or {\bf Computer Graphics} (my primary interests), and
+\item it must be fairly good, if not exceptional, in other fields of
+Computer Science too (especially, algorithms and combinatorics).
+\end{enumerate}
+Brown University more than satisfies these criteria. My B.Tech.
+Project guide,
+Dr.Sharat Chandran also strongly recommended it. An added attraction is
+its participation in the
+Science and Technology Center for Computer Graphics and Scientific 
+Visualisation.
+
+There is one more ({\em and the most compelling}) reason.
+In my B.Tech. Project, my guide and I are
+ concentrating on developing better methods 
+for the moving/ multiple viewpoint case of hidden 
+surface removal. The preliminary
+ ideas that have emerged out of this effort use a
+result on {\em Dynamic planar point location} by
+{\bf Prof.Roberto Tamassia}. The {\em line sweep} technique is the other
+major component in these ideas, and it was from {\bf Prof.Preparata}'s 
+book on Computational Geometry, that I first learnt it.
+ {\em The fact that  both are from Brown University
+ convinced me that  Brown University is the natural
+choice in realising my graduate goals.}
+ Subsequently I  corresponded with Prof.Tamassia, and his
+encouraging reply reinforced my decision to apply to Brown.
+
+It would be a pleasure to continue my current research focus at Brown under
+their supervision. At the same time, I am sure that many other problems which
+the Brown CS department is currently focussing on, would be equally 
+interesting to work on.
+
+
+\ \\
+{\Large {\bf What I plan to do at Brown}}\\
+I plan to carry on advanced study of both Computer Graphics and 
+Computational Geometry, as well as related fields (e.g. algorithms),
+not only through coursework but also by
+ {\em participating in one of the several ongoing projects}.
+This will also give me the opportunity to
+  contribute my bit to the understanding of the fields which interest me
+so much.
+
+ I am keen that 
+the output of my PhD (and in fact, any PhD),
+be well worth the time and effort spent on it. For the reasons mentioned
+above, I am sure that Brown University
+will provide me the right environment for this. 
+
+\ \\
+{\Large {\bf Financial Aid}}\\
+I would be fully dependent on aid to finance my graduate studies.
+ If I am granted an assistantship, then given my long term goals, 
+a research assistantship would be
+an ideal experience for me. I also have some experience as a teaching 
+assistant. Not only have I enjoyed it, but the students have also appreciated
+it. This makes me confident that I will be a good teacher also.
+
+\ \\
+{\Large {\bf In conclusion...}}\\
+I am aware that Brown University expects very high standards from its students.
+On my part, I can assure you of hard work. I believe that my enthusiasm will 
+enable me to meet those expectations. My consistency in all previous academic
+and co-curriculur activities is what gives me confidence when I say this.
+
+Eagerly looking forward to a long and mutually profitable 
+association with the Computer Science
+department of Brown University,
+
+\begin{flushright}
+Your's sincerely, \\
+Sumedh Barde
+\end {flushright}
+
+\end{document}
+
+
+  [ Part 23: "Attached Text" ]
+
+\documentstyle[11pt,a4]{article}
+\begin{document}
+\begin{center}
+{\large \bf Personal Statement}
+\end{center}
+
+\
+
+My early fascination for computers (since high school), combined with
+a strong liking for analytical subjects inspired me to seek admission
+to one of the best and most competitive Computer Science undergraduate
+programs in India --- the B.Tech program in IIT Bombay. I was
+succesful in this endeavour, being ranked 113th among around 100,000
+students in the entrance exams to the IITs. In IIT, a very strong
+curriculum, introduced me to a wide range of subjects in Computer
+Science, with a strong emphasis on theoretical fundamentals.  I have
+always believed that a subject is understood better when one actually
+sees an abstract theory being realized by a practical system. The
+various demanding laboratory courses and projects in the B.Tech
+program at IIT, have provided me with a better understanding of
+Computer Science.  This belief has led to my growing interest in
+computer systems, and I have consistently performed well in my
+laboratory courses. I have also, as part of a campus wide systems
+support group, been involved in compiling and installing various
+software and systems.
+
+\
+
+Given these practical interests, my theoretical background, my
+aptitude and academic potential for graduate study (indicated by my
+GRE General score of (V 700, Q 790, A 780) and Computer Science
+Subject score in the 98th percentile), I feel that pursuing a PhD
+degree in Computer Science is a step in the right direction towards my
+long term career goals.
+
+\
+
+Thirty years from now, I want to be able to look back at the
+accomplishments of my life and feel a sense of satisfaction.
+Satisfaction, because my work made a significant impact in my field.
+And if I can achieve this goal I will consider my career a
+success. Over the past four years, I have become absolutely convinced
+that the path towards this goal will involve leveraging my current
+skills and abilities to make significant contributions to improve the
+understanding of systems and concepts in the field of Computer
+Science. Six or seven years from now, I see myself as part of a
+leading research group, contributing my bit to the field of Computer
+Science. A PhD in Computer Science, is therefore a natural first step
+towards this goal.
+
+\
+
+I plan to work towards a PhD in the field of {\bf Distributed Systems
+and Networking}. I have become interested in this area during the
+course of my undergraduate studies at IIT Bombay, through a series of
+research and project experiences.
+
+\
+
+In my junior year, I presented a home paper on ``Wormhole Routing in
+Interconnection Networks.''  Currently, I am in the midst of my year
+long B.Tech thesis, titled ``Distribution Strategies for the
+Satisfiability Problem,'' guided by Prof. G. Sivakumar (PhD,
+University of Illinois, Urbana-Champaign).  For this thesis, I am
+writing a distributed solution for the satisfiability problem, on a
+network of workstations. My work will involve studying various
+distributed computing techniques and writing a distributed version of
+existing sequential solutions to satisfiability. Moreover, this
+semester I have undertaken as an Operating Systems course project, a
+study of implementation issues in ``Group Communication in the {\em
+Amoeba} Distributed Operating System'' and will be crediting a
+Postgraduate elective --- ``Foundations of Parallel Computation'' in
+my final (next) semester.
+
+\
+
+In my opinion, the effective communication of ideas is an important
+part of any research career.  During my undergraduate years in IIT, I
+have been fortunate to have had some experience in teaching basic
+Computer Science.  In my junior year, I was a teaching assistant for
+an institute level introductory course in programming, ``CS 101:
+Computer Programming and Utilization,'' for freshmen. The work
+involved conducting tutorials, grading assignments, and providing
+assistance during practical sessions.
+
+\
+
+In my junior and senior years, I have been the Technical Coordinator,
+and subsequently General Seceratary of the Computer Science and
+Engineering Association, IIT Bombay. In this capacity, I have been
+actively involved in planning, organizing and lecturing at, various
+workshops on UNIX aimed at both technical and lay audiences.  These
+experiences have been extremely rewarding, and I am sure they will
+help me in any teaching duties as a graduate student, and later on in 
+my career.
+
+\
+
+I am confident that my strong motivation, my undergraduate experiences
+and my analytical aptitude will help me to measure up to the rigours
+of graduate study. I am looking forward to make my contributions to
+the research going on at Dartmouth.
+
+\vspace {1cm}
+\begin {flushright}
+{\bf Arvind Sundararajan}
+\end {flushright}
+
+\end {document}
+
+  [ Part 24: "Attached Text" ]
+
+\documentclass[a4wide,12pt]{article}
+\pagestyle{empty}
+\begin{document}
+\begin{center}
+{\bf \large Statement of Purpose} \\
+\end{center}
+\noindent
+{\large {\bf Introduction}}\\
+In this era of information technology I feel a sense of pride in being so
+closely associated with the field of computer science. The desire to 
+forge ahead in this field by doing cutting--edge research has motivated
+me to pursue graduate studies.\\
+
+\noindent
+{\large {\bf Academic Background}}\\ 
+I hail from a small industrial town where education is given a very
+high priority. My father is an educator himself. This background
+inculcated in me a deep inclination for academics from the very
+beginning. The subjects that attracted me most were Mathematics and
+Physics. In order to pursue a career in science and engineering, I
+appeared for the Joint Entrance Examination for admission to
+I.I.T.s. Securing an {\em All India Rank of $162$} amongst $100,000$
+candidates ($99.8$ percentile), I joined I.I.T. Bombay, one of the
+best institutes for engineering education in India. The growing
+involvement of computers in various fields of science and technology
+encouraged me to choose computer science as my branch of study in
+undergraduate studies.\\
+
+\noindent
+{\large \bf {Undergraduate Studies}}\\
+After coming to I. I. T., I was introduced to the true expanse of computer 
+science. The core courses gave me an in--depth knowledge in each field. The 
+lab courses and projects gave me the programming skills ( for details of 
+the projects please refer resume ). Most of these projects were 
+done in groups of two to four students. This gave me the opportunity to 
+learn to work in a group -- both as a leader or otherwise.\\
+
+\noindent
+{\large {\bf Areas of Interest}}\\
+My main objective during my undergraduate studies was to get an overview of 
+various fields in computer science and identify a field of interest in which 
+I could pursue my research career. Because of their vast applications, 
+computer systems, in general, have attracted me. In particular, I am interested 
+in databases, distributed systems and parallel processing. My Junior thesis 
+was on {\em database mining}, which I completed under the guidance of 
+\mbox{Dr. S. Seshadri}. I am currently doing 
+work in {\em parallelizing compilers} as part of my Senior thesis 
+under \mbox{Dr. S. Biswas}. I have also registered for a course on "models of 
+parallel computation" , intended to deal with fundamentals of parallel 
+algorithms and parallel architectures, in the forthcoming semester.\\
+
+\noindent
+{\large {\bf Career Objectives}}\\
+Within a decade or so, I visualize myself as a full fledged research 
+professional in an organization or a faculty member at one of the leading 
+Universities. I see Ph.D as a first step in achieving this career objective. 
+I am willing to do MS as an intermediate step.\\
+
+\noindent
+{\large {\bf Strengths}}\\
+There are a few things whose value I realized during my undergraduate
+studies and now I strongly believe in them. These are {\em hard work}
+-- Necessity to produce results, {\em discipline} -- Necessity to finish 
+task before deadlines and {\em persistence} -- Necessity to sail through 
+unproductive periods. My attempt throughout has been to inculcate these 
+qualities in myself in which, I believe, I have been fairly successful.\\
+ 
+\noindent
+{\large {\bf Weaknesses}}\\
+A major weakness of mine has been my speed. I always try to attack a problem
+in depth which invariably requires some amount of time. As a result, I have not
+been able to perform very well in ``three hour'' exams. This weakness has been 
+reflected in my grades. However, given sufficient time I have always been able
+to show good results, reflected by the good grades (AA or AB) in 
+lab courses involving projects.\\
+
+\noindent
+{\large {\bf Reasons for selecting Ohio State University }}\\
+My advisors recommended me of  your university on the basis of faculty interests
+and the research work currently in progress. After going through the brochure, I 
+realized that there also exists a vast gamut of opportunities, especially 
+excellent computing facilities , in your department. In addition, from the 
+communication I had with Dr. Mukesh Singhal, I have to come to conclusion that the graduate
+program at your department would suit my interests extremely well.\\
+
+\noindent
+{\large {\bf Conclusion}}\\
+I am fully aware that a research career requires a constant, well--directed
+and whole--hearted effort. I am confident that I would meet all the
+above demands. Hence I appeal to the Graduate Admissions Committee to
+consider me for admission, and financial aid.
+\end{document}
+  [ Part 25: "Attached Text" ]
+
+\documentstyle[a4wide,12pt]{letter}
+\pagestyle{empty}
+\newcommand{\Space}{\hspace{1cm}}
+\begin{document}
+
+\begin{center}
+{\Large \bf
+	Statement of Purpose
+}
+\end{center}
+
+
+ I, Punit Bhargava, am a final year student of the four year Bachelor 
+of Techonology (B.Tech.) program in Computer Science \& Engineering at 
+the Indian Institute Of Techonology (IIT),  one of the nation's 
+premier institutes. My long term career objective is to pursue a 
+research career, either as a faculty in a university or a researcher in
+industry and Graduate Study at your department would be the  first step towards this
+goal.
+
+
+  Since childhood I have had a strong inclination towards science. My excellent performance in academics inspired me to take up science as a career. 
+I therefore, took the  Joint  Entrance  Examination  for   admission to 
+the IITs and qualified in  the  top 0.12% of about 150,000 who took the 
+test.
+
+%I
+           The excellent course structure coupled  with  high academic 
+standard further stimulated my interest in scientific pursuit. My 
+approach  towards  courses  was  to  grasp the basic concepts so as to 
+develop a 'feel' for the subject. My grades reflect my attitude towards
+courses. As a part  of  curriculum  I  actively  participated  in many 
+innovative projects. As a result I have developed a keen interest and  have a sufficient aptitude for 
+research and therefore I believe that I shall be  capable of meeting the best standards in research. 
+
+%Interest
+Over  the  past  two  years  in  the  Computer Science 
+department, I have developed a keen  interest in  Programming Languages
+and Distributed \& Parallel Systems. I have taken many courses related 
+to this  field and have done cosistantly well in them. Courses such as
+ Programming Languages, Language Processors (Compilers), Operating 
+Systems 
+have given me considerable exposure to this field.
+I am taking a Graduate level Course on Parallel Algorithms next semester. 
+
+%Btp
+Currently I am involved in  my B.Tech. Project on ``Program Restructuring for GENSAT'' under the guidance of Dr. D.M. Dhamdhere. Details of the project
+are given in my resume. Presently I am implementing an algorithm by 
+Zahira Ammargulleat. I have proposed a few changes in her algorithm and 
+have proved that the new algorithm would do better than the one proposed
+by her, in all the cases. 
+
+
+A good deal of teaching experience, as seen in my resume, makes me 
+confident of my ability to communicate as a teacher.
+
+%univ
+%Computer Science at UIUC is one of the best programs to pursue research in the field of
+%systems. 
+
+>From the information brochure, web pages and as advised by my 
+ guide, Dr. Dhamdhere , I have gathered that a considerable amount of research is being 
+done in Systems in UIUC. A number of renowned faculty members of UIUC
+are working on the research frontiers of computer science. It would be 
+my privelige to work with such renowned researchers, and contribute something
+useful to Computer Science.
+
+
+%Conclusion
+ 
+  I look forward to joing UIUC as a Graduate student at your esteemed
+department.
+\vspace{25pt}
+
+                                                     {\bf Punit Bhargava}
+
+\end{document}
+% change the teachers para
+% do something about pedagogy
+% do ispell
+
+  [ Part 26: "Attached Text" ]
+
+\documentstyle[a4wide,12pt]{letter}
+\pagestyle{empty}
+\newcommand{\Space}{\hspace{1cm}}
+\begin{document}
+
+\begin{center}
+{\Large \bf
+	Statement of Purpose
+}
+\end{center}
+
+My aspiration to work at the frontiers of Scientific research leads me 
+to apply to your university. I believe that a comprehensive  knowledge 
+and a good grasp of fundamentals are essential for such  a  career.  I 
+feel that Graduate studies in Computer Science in a good  University  like 
+yours will help me realize this objective. Therefore I am seeking
+admission to the Ph.D.  program  at  
+Harvard  with a specialization in  Computer  Science.  
+I  have  compelling 
+reasons to believe that I will  be  extremely  successful  both  as  a 
+Graduate student and later as a researcher.
+
+%As  a  first  step  towards 
+%obtaining a Ph.D., I am seeking admission to the Master's  program  at 
+%Harvard University with a specialization in  Computer  Science.  I  would 
+%prefer doing a direct Ph.D., if it  is  possible.  I  have  compelling 
+
+My superlative performance in school fetched me a number of awards at 
+the national level. I was awarded the prestigious National Talent
+Search Scholarship in class ten.
+%and was in the top twenty five in the
+%National Standard Examination in Physics in my twelfth.
+I had developed a keen  interest  in  science  and 
+decided to choose it  as  my  career.  I  therefore,  took  the  Joint 
+Entrance Examination for admission to the  five  Indian  Institute  of 
+Technologies, which are  considered  the  best  academic  centers  for 
+science and Engineering in India and qualified  in  the  top  0.3\%  of 
+those who took the test.
+
+I have always adopted a rigorous approach in order to attain an in-depth 
+understanding of the subject at  hand.  This  has  given  me  a  broad 
+conceptual basis, which, I  believe,  is  essential  for  my  research 
+career.  My  grades  in  the  basic  courses  reflect  my  quest   for 
+fundamentals. My overall grades in my undergraduate studies have been good,
+but not excellent. This again reflects my approach to courses more as
+an introduction to concepts that need further independent study by the
+student, rather than as a run-up to a semester-end examination.
+
+Over the past two years in Computer Science I have developed a special 
+interest in {\bf Programming Languages and Distributed \& Parallel  Systems.}
+I have been involved in research in these areas and have  consistently 
+obtained good grades in the related courses. In Spring' 95, I will  be 
+taking two Graduate level courses in these fields namely  `Distributed 
+Databases' and `Advanced Compilers'. I have written an  article  on 
+``Distributed  File  Systems''  with  Prof.  M.R.  Bhujade  which appeared in  
+the September 1994 issue of {\bf CSI (Computer Society of India)
+Communications}. In this article  the  basic  concepts  underlying  the 
+design and  implementation aspects  were  discussed  and  contemporary 
+systems like Locus, Andrew and Unix United were surveyed in detail.
+
+I am currently working on  ``Register  Allocation  Algorithms''  for  my 
+B.Tech thesis under the guidance of Prof. D.M.Dhamdhere. In my  project 
+we have introduced a  technique of live range confinement 
+which adapts the live range of a data item to the availability of
+register. Instead of splitting a live range like in a  Chow-Hennessy
+allocator we are implementing the confinement technique. 
+Half way through the project we have already sent part of our work for the 
+{\bf ACM SIGPLAN'95
+Conference} on {\bf Programming Language Design and Implementation}
+sponsored by the {\bf Special Interest Group on Programming Languages,
+Association for Computing Machinery.}
+
+%I had also presented a course paper on language Linda  which  consists 
+%of operators that embody tuple space model  for  Parallel  programming 
+%and involves Distributed Data Structures.
+
+I have a reason also to be  confident of my abilities as a teacher. As
+part of a nation wide teaching program, I have taught school children
+subjects like Physics, Mathematics and English for four semesters (three
+hours per week). This was an interesting experience which I feel would
+stand in good stead in the future.
+
+I take immense pleasure in learning  new  concepts.  This  inquisitive 
+nature of mine along-with a desire to realize my full  potential  drive 
+me to pursue research. I am aware that  research  calls  for  complete 
+dedication and commitment. I consider myself to be mature, perceptive, 
+persistent and open  to  criticism %  qualities  which  I  believe  are 
+%essential for group research.
+
+%by working under the guidance of distinguished professors like Prof. A 
+%b ffffffffffffff, whose  interests  match  closely  with  mine,  I  am 
+%confident of making an original contribution to the field of  Computer 
+%Science. 
+
+
+I have studied in one of the best institutes of our country and feel
+the need to expose myself to research in United States which is
+currently a world leader in Computer Science.
+I have chosen to pursue Graduate studies at Harvard University because 
+the facilities at Harvard  seem to foster a healthy research
+environment as I could gather from the brochure of your department.
+I believe that I possess  the  motivation,  the  intellectual 
+ability, and the preparation to  set  out  on  this  exhilarating  and 
+arduous path, to do justice to a demanding Graduate program and to make 
+significant contributions to the ongoing work at your University.
+
+%I have chosen to pursue graduate studies at University of Maryland  because 
+%by working under the guidance of distinguished professors like Prof. A 
+%b ffffffffffffff, whose  interests  match  closely  with  mine,  I  am 
+%confident of making an original contribution to the field of  Computer 
+%Science. I believe that I possess  the  motivation,  the  intellectual 
+%ability, and the preparation to  set  out  on  this  exhilarating  and 
+%arduous path, to do justice to a demanding Graduate program and to make 
+%significant contributions to the ongoing work at your University.
+
+I look forward to joining Harvard University as  a  Graduate  student  at 
+your esteemed department.
+\vspace{25pt}
+
+                                                     {\bf Rahul Sharma}
+
+\end{document}
+
+  [ Part 27: "Attached Text" ]
+
+\documentstyle[a4wide,11pt]{report}
+\pagestyle{empty}
+\begin{document}
+\begin{center}	{\Large \bf Statement of Purpose}  \end{center}
+
+	My decision to apply for a {\bf Ph.D.} program at {\bf 
+University of Utah} is driven by my aspirations to pursue a research career in
+the field of Computer Science. This field interests me because of its
+formal and rigorous mathematical nature and its wide-ranging
+applications. I believe that a strong and thorough background as well
+as complete awareness of recent developments are essential for an
+intellectually stimulating and satisfying research career. Towards
+realizing this objective at an esteemed department such as yours, I am
+applying to your university. An objective analysis of my background,
+interests, strengths and weaknesses leads me to believe that I will be
+successful both as a Ph.D. candidate and later as a researcher in an
+academic milieu. 
+
+\
+
+	Academics has always been my strong-hold. My inquisitive
+nature and a strong desire to ingrain the fundamental principles as
+well as techniques of any subject of study has enabled me to achieve
+an excellent academic record. More importantly, it has inculcated in
+me the methodology of scientific inquiry as reflected in my rigorous
+and analytic approach to problem solving. This is further evident from
+my performance at higher-secondary school level and at IIT Bombay. The
+excellent course structure at IIT has given me a sound and broad
+conceptual basis, which, I believe, is essential for a research
+career. Through many projects I have undertaken in a stimulating
+academic environment at IIT where learning and research go
+hand-in-hand, I have found that I have a deep  interest in research
+work, a strong motivation and an aptitude for the type of problem
+solving it involves. 
+
+\
+
+	Over the past two years at IIT, I have cultivated a keen interest
+in the field of {\bf Asynchronous Circuits, Formal Design Methods in VLSI}. I
+have furthered my knowledge in this field by reading various related
+articles and am actively involved in research in this area. I  have
+also opted for a graduate level course {\bf IC Design Technology} in Spring
+96. I am currently working on {\bf Asynchronous Communication between
+Synchronous Finite State Machines} for my B.Tech. thesis under the
+guidance of {\bf Prof. S. Ramesh}. I am working towards implementing
+communication primitives such as {\bf rendezvous, probe} etc. at gate level
+in VLSI circuits. I am investigating different interconnect design
+methodologies which can be implemented as {\bf delay-insensitive
+asynchronous circuits}. In the first stage of this work, we have
+proposed a {\bf new protocol} to implement {\bf asynchronous rendezvous 
+communication} and a method to implement this protocol using asynchronous 
+circuits. I  firmly believe that this project is a sufficient 
+demonstration of my ability to conduct original and independent 
+research.  
+
+\
+
+	I have strong reasons to believe that I possess the
+temperament for teaching, a good power of speech and a thorough and
+extensive knowledge of my field : traits required for a successful
+teaching career. I have worked as a teaching assistant in a
+nation-wide teaching program for two years. I have also been lecturer
+and tutor for three {\bf UNIX workshops} conducted by {\bf CSEA, IIT Bombay} 
+which were attended by more than 250 people every time. This experience 
+developed and honed my skills of organizing and communicating my thoughts 
+in front of a responsive and critical audience. 
+
+\
+
+	I have always attempted to gain insight into the problem at hand
+and tackle it from different angles. I am well aware that a career in
+research calls for personal commitment and personal sacrifice of time,
+leisure and immediate reward. However, my desire to realize my full
+potential and to make an original contribution to the field of
+Computer Science drive me to pursue a research career, which, I
+believe, will give me intellectual satisfaction, gratification of
+becoming a contributor to knowledge and personal rewards of learning
+and discovery. I not only possess the intellectual ability, sound
+preparation and the strong motivation for research but also consider
+myself mature, friendly to work with and open to criticism : qualities
+essential for group research. 
+
+\
+
+	I believe that a symbiotic relationship between the student
+and his department is of utmost importance for a successful graduate
+program. Considering the pioneering work going on at your department
+in the field of my interest, your department is an ideal choice for an
+exciting research career. At the same time, I am confident of
+contributing originally to the ongoing work at your department. By
+working under the guidance of distinguished faculty at your
+department, I am sure, I will be able to exploit my potential to the
+fullest.
+
+\
+
+	Keeping this in mind, I look forward to joining {\bf  
+University of Utah}. 
+
+\
+
+\begin{flushright}
+{\bf Ghughal Rajnish P}
+\end{flushright}
+\end{document}
+
+  [ Part 28: "Attached Text" ]
+
+Return-Path: dshah@cse.iitb.ernet.in
+Return-Path: dshah@bhishma.cse.iitb.ernet.in
+Received: from bhishma.cse.iitb.ernet.in (bhishma [144.16.111.25]) by cse.iitb.ernet.in (8.7.5/8.7.3) with ESMTP id WAA20185 for <kapsee@kailash>; Fri, 6 Dec 1996 22:12:27 +0530 (IST)
+Received: (from dshah@localhost) by bhishma.cse.iitb.ernet.in (8.7.Beta.13/8.7.Beta.13) id WAA17180 for kapsee; Fri, 6 Dec 1996 22:12:58 +0530 (IST)
+Date: Fri, 6 Dec 1996 22:12:58 +0530 (IST)
+From: Shah Darshatkumar Anandji <dshah@cse.iitb.ernet.in>
+Message-Id: <199612061642.WAA17180@bhishma.cse.iitb.ernet.in>
+To: kapsee@bhishma.cse.iitb.ernet.in
+
+\documentclass[12pt]{article}
+\begin{document}
+\begin{center}
+{\bf \LARGE Statement of Purpose}
+\end{center}
+\vspace{1cm}
+
+I, Anil Kumar Ruia, am applying to Massachusetts Institute of
+Technology for admission to the Ph.D. program in Computer Science.  I
+am especially interested in Theoretical Computer Science including the
+design and analysis of algorithms like Approximation algorithms,
+Randomized algorithms, Parallel Algorithms and Complexity Theory and
+Combinatorics.
+
+I have a strong background in Mathematics. I was placed in the merit
+list in Mathematics in school and high school and secured the $1^{st}$
+position amongst 100,000 candidates in the all India Joint Entrance
+Examination (JEE) for the IITs.  My first exposure to computers came
+via programming in high school and I found it so stimulating that I
+decided to pursue a career in Computer Science.
+
+At the Indian Institute of Technology (IIT), Bombay, the excellent
+facility, faculty and the wide spectrum of courses have given me an
+excellent command on the fundamentals of Computer Science.  I have
+always been fascinated by abstract Mathematics and I have found
+Theoretical Computer Science just the right blend of abstract
+Mathematics and concrete Computer Science.  My interest in this field
+has kept on growing with courses like {\bf Discrete Structures}, {\bf
+Data Structures and Algorithms} and {\bf Theory of Computation} which
+have been my favorites.
+
+My B. Tech. Seminar (Junior Thesis) included a literature survey on
+{\em Topological Graph Theory\/} and my B. Tech. Project (Senior
+Thesis) is on {\em Combinatorics and Algorithms\/} in which I am
+attempting to obtain better solutions to various problems like
+constructing minimal fault tolerant circuits and approximation
+algorithms to construct maximal planar subgraph.  This has given me
+experience in mastering abstract Mathematical concepts as well as in
+designing good algorithms for simply expressed practical problems.  My
+skills and interest in this field have been further improved upon by
+courses such as {\bf Design and Analysis of Algorithms} and {\bf
+Geometric Algorithms} in which I have been exposed to randomized
+algorithms for problems in computational geometry.  To further improve
+my command in this field, I have taken {\bf Foundations of Parallel
+Computation} and {\bf Information Theory and Coding} for the coming
+semester.  I am also attending a lecture series on the $P$ vs $NC$
+problem.
+
+I strongly feel that Algorithms and Complexity theory are the core
+subjects in Computer Science and problems in all fields can be handled
+using these techniques.  This area also has a large potential for
+research and this is what I envisage myself doing a few years from
+now, preferably in an academic environment.
+
+I am convinced that I should pursue a career in research and teaching.
+For me, problem solving is an experience unmatched by anything else.
+It would give me immense pleasure to be able to contribute something
+to this subject.  My limited teaching experience as tutor in an
+introductory undergraduate programming course has been very positive
+and I would love to be able to teach my favorite subjects and thus get
+a better understanding of these fields myself.
+
+I have heard a lot from IIT alumni and faculty about the excellent
+faculty in Theoretical Computer Science, the research done in this
+field and the performance of the students who have graduated from MIT.
+I am sure that the stimulating academic environment and interaction
+with the distinguished faculty will prove immensely fruitful and
+facilitate my development as an individual researcher in my field. I
+feel that MIT has a lot to offer me, and at the same time, I am
+confident that I would be able to make a positive contribution to
+on-going research work at MIT.
+
+With these long-term goals in mind, my immediate objective is to work
+towards a Ph.D. in Computer Science.  Having decided that I will
+engage in a career in research, I am aware of the kind of dedication,
+resilience and resolve I will have to show over the years.  I feel
+that I am adequately prepared for that, both in having the technical
+qualifications and the right mind-set for doctoral level research.
+
+I look forward to joining as a graduate student in your department.
+
+\vspace{1.5cm}
+Anil Kumar Ruia. \hfill Date.
+
+\end{document}
+\documentclass[12pt]{article}
+\usepackage{latexsym,a4wide}
+\begin{document}
+\parindent2.5em
+\begin{center}
+{\Huge \bf Statement of Purpose}
+\end{center}
+
+\ \\
+{\Large {\bf My goals}}\\
+
+	I, Ashwin Shrinivas, am applying to the University of
+California, Santa Barbara for admission to the Ph.D. program in Computer
+Science. My goal is to pursue a career in research, either in industry
+or in academia. Ten years from now, I envisage myself as a full-fledged
+research professional in an organization, or a faculty member at one of
+the leading universities. A Ph.D. is an important first step in
+achieving this objective.
+
+\ \\
+{\Large {\bf My background}}\\
+
+Though I was exposed to some aspects of Computer Science in my
+last two years of school, a comprehensive foundation in all the fields
+of Computer Science began after I entered IIT Bombay. The Computer
+Science department at IIT Bombay is indisputably among the best in the 
+country. Its excellent courses, faculty and learning environment have
+given me a firm grounding in all the fields of Computer Science.
+
+My academic and co-curricular record has been consistently good.
+Throughout school as well as now, I have been at or near the top of my
+class. My class at IIT Bombay consists of 36 students, chosen from an
+All India exam involving 100,000 students. I myself was $9^{th}$ in that
+exam. I have listed some of my achievements on the attached resum\'{e}.
+
+I am of the opinion that research requires a firm grounding in theory
+backed up by an in-depth knowledge of systems and implementation. The
+important courses of {\em Discrete Structures}, {\em Data Structures \&
+Algorithms}, and {\em Theory of Computation} have given me a good
+knowledge of theory. In addition, I am doing the course {\em Design \&
+Analysis of Algorithms} this semester and {\em Parallel Algorithms} next
+semester, in order to further firm up my foundations. My performance in
+lab courses attests to my knowledge of systems and programming.
+
+My strengths are my consistency, capacity for hard work, and my ability
+to work in a team. I have been involved in many course projects which
+involved a group of students, and I have been the team leader in quite
+a few of these. I believe that research involves new ideas, as well as
+consistent effort to back them up, both of which I am capable of.
+
+\ \\
+{\Large {\bf My primary interests}}\\
+
+I prefer research problems to be an ideal mix of theory and practice.
+The field of {\bf Databases} interests me because of the scope for
+breaking new ground, as well as the vast applications possible. I
+believe that {\bf Distributed Databases}, in particular, is an area
+with a lot of potential. My grounding in this field is solid, which is
+reflected in my obtaining the best possible grade in both the courses
+involving Databases, namely, {\em Business Information Systems} and
+{\em Database Management Systems}, and in their respective labs too.
+Currently, I am working on my Senior Thesis under Dr. S. Seshadri,
+in which we are looking at the problem of {\em Garbage Collection in
+Persistent Object Stores}. We plan to submit it for publication after
+running some performance tests, which we are designing. I have included
+details in my resum\'{e}.
+
+\ \\
+{\Large {\bf Why California-Santa Barbara ?}}\\
+
+Since all fields in Computer Science are highly interlinked, I want to
+pursue graduate studies at a University that is strong in all fields of
+Computer Science. I am aware that the department of Computer Science at
+the University of California, Santa Barbara is one of the best in the world,
+being particularly strong in Databases (my primary interest).
+Dr. Seshadri also recommends it highly. These facts have led me to apply
+to California-Santa Barbara.
+
+There is one more ({\em and the most compelling}) reason. In the course
+of my Senior Thesis, I have come across related work by
+Dr. D. Agrawal. His work has interested me immensely, and I would
+like to participate in some of the projects he is undertaking.
+Subsequently I corresponded with Dr. Agrawal, and his encouraging
+reply and description of the work at the department reinforced my
+decision to apply.
+
+\ \\
+{\Large {\bf Financial Aid}}\\
+
+I would be fully dependent on aid to finance my graduate studies. If I
+am granted an assistantship, then given my long term goals, a research
+assistantship would be an ideal experience for me. I have already 
+mentioned my interest in research. I also have some
+experience in teaching. I have been a lecturer \& demonstrator in
+student workshops held in various colleges in the region. I was also
+involved in a nationwide program which involved teaching school
+children. The good response to my efforts, coupled with my prowess in
+dramatics, elocution \& debating gives me the confidence to handle any
+teaching assignment.
+
+\ \\
+{\Large {\bf My plans if admitted}}\\
+
+I plan to carry on advanced study of Databases, as well as related
+fields (e.g. Algorithms), not only through coursework but also by
+{\em participating in one of the several ongoing projects}.
+This will also give me the opportunity to contribute my bit to the
+understanding of the fields which interest me so much.
+
+I am aware that the University of California, Santa Barbara expects very high
+standards from its students. My track record gives me the confidence
+that I will be able to meet those expectations. I believe that my
+association with the Computer Science department will be a mutually
+profitable one.
+\vspace{4ex}
+\begin{flushright}
+
+Ashwin Shrinivas\\
+(S Ashwin)~~~~~\\
+
+\end{flushright}
+\end{document}
+
+
+  [ Part 29: "Attached Text" ]
+
+%	-*-LaTeX-*-
+%
+%
+\begin{center}
+{\Large \bf
+	Statement of Purpose
+}
+\end{center}
+
+\begin{flushleft}
+{\bf Academic \& Career Objectives}
+\end{flushleft}
+
+	My long term career goals include the pursuit of research in
+the field of Theoretical Computer Science and teaching in an academic
+environment. I have found that a career in research is both
+intellectually stimulating and satisfying and hence I have decided to
+take this up as my career objective.
+
+\begin{flushleft}
+{\bf Degree Objectives}
+\end{flushleft}
+
+	I want to work towards a Ph.D. in Computer Science in the
+field of Theoretical Computer Science. My interests include both the
+design and analysis of Algorithms as well as Computational Complexity Theory.
+
+\begin{flushleft}
+{\bf Reason for Graduate Work}
+\end{flushleft}
+
+	I have always been fascinated by mathematics. As a part of my
+undergraduate curriculum, I have been exposed to a range of
+advanced mathematical techniques and I have been especially drawn towards
+both the analysis of Algorithms and Complexity Theory. These fields
+have both a strong mathematical flavor as well as the potential for
+research which is what attracts me towards them.
+
+	The fact that these subjects form a unifying feature of all
+fields in Computer Science and their quest towards achieving the limits
+of what can and can't be done, form part of the reasons for my
+fascination in them.
+
+	An undergraduate degree is merely an exposure to the various
+fields in any branch of higher education. I feel that my
+undergraduate curriculum has given me a sufficient enough exposure to
+all the various possibilities for research that are possible and I
+have chosen the one for which I have both an aptitude as well as a liking.
+%that I both have an aptitude for as well as a
+%liking.
+
+	In order to pursue an active career in research, it is
+necessary to both study and understand the finer nuances of any
+subject. I believe that Graduate Studies will not only provide me with
+advanced knowledge about the field but also prepare me to be a good
+researcher. It is precisely this reason which prompts me to take up
+Graduate Studies as the next step towards my career objectives.
+
+\newpage
+
+	As an initial step towards achieving my goal, as part of my
+undergraduate studies, I have chosen my electives so as to enhance my
+understanding of these subjects. These include such subjects as
+{\tt Design \& Analysis of Algorithms}, {\tt Combinatorics} and
+{\tt Abstract Algebra I}. I have also audited (taken as non-credit)
+a Graduate level course {\tt Algorithms \& Complexity}.
+I have attended an Advanced Mathematics Training Programme in
+Summer '93 so as to enhance my mathematical abilities.
+
+%	-*-LaTeX-*-
+%
+
+\begin{flushleft}
+{\bf Why have I chosen Stanford}
+\end{flushleft}
+
+	I have chosen Stanford as the place at which I would
+like to pursue a doctoral degree because I find that the graduate
+program is fully suited to my needs and that it possesses a strong
+faculty in the field of Theoretical Computer Science.
+
+        I have also consulted the professors in my university who are
+working in the field of Algorithms and Complexity Theory and they have
+strongly recommended the research work in these fields at Stanford.
+
+        Hence, I have applied to Stanford so as to fulfill
+both my academic as well as my career objectives.
+
+Pradyut Shah
+
+  [ Part 30: "Attached Text" ]
+
+                        Statement  of  Purpose
+                        ----------------------
+
+
+My goals:
+--------
+
+After considering my aptitude and the type of work that I like to do,
+I am convinced that I want to take up a research career in Computer
+Science.  Since a good research career can only be built on the firm
+foundation of good education, my immediate objective is to pursue a
+Ph.D. in Computer Science. 
+
+My background and my primary interests:
+--------------------------------------
+
+I have always had an excellent academic record. I was awarded
+scholarships at the National level in the 10th and 12th
+standards. Later, I secured the 151st rank among 100,000 candidates
+(99.8 percentile) in the All India Joint Entrance Examination for
+admission to the Indian Institutes of Technology. Due to my keen
+interest in Mathematics and fascination for computers, I chose
+Computer Science and Engineering as my major field. The excellent
+facilities, courses and faculty at IIT-Bombay have given me a lot of
+drill in both theoretical as well as implementational aspects of
+computer science. I believe that this combined with the mathematics
+courses that I have taken forms a sound foundation for graduate
+study. 
+
+During the course of the B.Tech. program, I have developed a
+keen interest in Systems. My experience in Systems includes, besides
+the courses listed in the sheet titled Computer Science Background, a
+number of projects such as a project on linux NFS, an implementation
+of extendible hashing for a toy DBMS and an implementation of a
+compiler for a subset of Pascal. As far as research experience goes, I
+am working on my B.Tech. project (Senior Thesis) titled `Surface Design
+for 3-D Graphics', under the guidance of Prof. Milind Sohoni and
+Prof. Sachin Patkar. I have included a brief summary of all these
+projects separately. I shall also be doing a course in Parallel
+Computing under Prof. Abhiram Ranade. All these courses and projects
+give me a firm foundation in Systems and I intend to build upon this
+foundation in my graduate studies.
+
+Other activities:
+----------------
+
+I have been actively involved in various co-curricular and
+extra-curricular activities.  I have regularly participated in
+Elocution and Dramatics competitions and have won prizes. I am also a
+member of the IEEE and the IEEE Computer Society.
+
+Teaching experience:
+-------------------
+
+I have some experience as a teaching and laboratory assistant for an
+institute level course for the first year undergraduates. Not only did
+I enjoy it, but the students also appreciated it. This gives me
+confidence that I will be a good teacher as well.
+
+Why UCSD ?
+----------
+
+I believe that in order to be a successful researcher, one must not
+only be a master of one's field, but also have a feel of other related
+fields.  Hence, I want to pursue graduate studies at a university
+which has an excellent program in Systems and is also good in other
+fields of computer science. UCSD satisfies this criteria perfectly. I
+am sure that working in such an excellent setup will give me valuable
+research experience and enable me to produce an excellent output in my
+Ph.D.
+
+In conclusion:
+-------------
+
+I am aware that UCSD expects very high standards from its students. On
+my part, I can assure you of sincerity and hardwork.  I am confident
+that my enthusiasm will enable me to meet your expectations. 
+
+Eagerly looking forward to joining the University of California, 
+
+
+                                                 Pattekar Amol Vinayak
+
+  [ Part 31: "Attached Text" ]
+
+\parskip 0.1in
+\begin{center}
+\Large {\bf Statement of Purpose}
+\end{center}
+\vspace{15mm}
+
+\noindent
+My schooling and three and a half years of undergraduate studies in EE at
+the Indian Institute of Technology, Bombay have made the choice of further
+study, for me, an obvious one.  This should be attributed in part to the
+values that have been inculcated in me during my formative years in an 
+educated middle class family background.
+
+\noindent
+Beginning with a passing interest in EE, these years of in depth study
+have convinced me that my future lies in microelectronics.  The challenges
+and possibilities for research in device, analog and digital circuit, and 
+VLSI circuit design fascinate me.  This I believe has come about through
+a sequentially structured introduction to this field through the courses: \\
+Modern Physics, 
+Electronic Devices, 
+Analog Circuits, 
+Digital Circuits, 
+Integrated Circuit Design and Technology. 
+
+\noindent
+In addition, I have worked on a number of related projects.
+I have worked on MOS capacitor characterization under Prof.
+Rakesh Lal using a quasi static approach.  My B.tech seminar (home paper)
+dealt with Monte Carlo simulations of small Si MOSFETs.  My guide was
+Prof. J. Vasi of the EE Dept. of IIT Bombay. I have undergone
+eight weeks of practical training in a Dept. of Electronics lab where I
+studied the theoretical and practical aspects of active and passive
+coupling of edge emitting semiconductor lasers to optical fibers.  An LD-SM
+optical fiber module was made and experiments were carried out.  In
+my senior year I presented a seminar on Noise in Semiconductor Devices under
+the Microelectronics Seminar Series at IIT Bombay.  My senior year B.Tech
+project (senior thesis) involves design of ultra low noise analog circuits.
+The final goal of the project is to design, with an intent to fabricate, an
+ultra low noise integrated circuit operational amplifier.  My B.Tech project
+work is progressing under the guidance of Prof. D. K. Sharma of the EE Dept.
+of IIT Bombay.  I can quite        
+confidently say that my abilities in circuit visualization, analysis, and
+design are unparalleled in my department.
+In the process of pursuing my interests in EE, my academic performance has
+been outstanding.  I have been consistently ranked 2nd in EE out of 64 
+students, and 8th in IIT Bombay out of 325 students.  I was included in 
+the director's academic honor list for the academic years
+\begin{itemize}
+\item 1991-1992
+\item 1992-1993
+\end{itemize}
+
+\noindent
+My academic pursuits have not however, prevented from participating with
+interest in various extracurricular activities.  I have taken part in
+various literary activities.  I am a regular participant in elocution
+competitions and debating society meetings and have been the editor of 
+the hostel magazine.  These activities, have led to the development of 
+a multifaceted personality and have equipped me with strong interpersonal
+skills.  This helps me to lead, as well as follow the leader when working
+as a team.
+
+\noindent
+>From where I stand now, I see myself engaged, in the long term, in a career
+devoted to active research in microelectronics.  It is with this objective 
+in mind that I want to pursue an M.S. at Stanford University.  My ultimate degree 
+objective, would however be a Ph.D.
+In choosing Stanford University as the university of my choice, I've looked carefully
+at the faculty and the available infrastructure.  
+
+\noindent
+The essence of university education lies in the success of the symbiotic
+relationship between the student, and his department.  With your repute
+in the field of my choice, you do have a lot to offer me, and at the
+same time, I am confident of contributing meaningfully to the research 
+endeavors at your University. It is with this in mind that I am looking forward to
+a long and rewarding relationship with you.
+
+  [ Part 32: "Attached Text" ]
+
+Statement Of Purpose
+
+Introduction:
+
+	As we near the end of the twentieth century we can see the ever
+growing need for computer technology. Over the centuries man has always wanted to
+compute, and process information as quickly as possible. he has also
+wanted to communicate with his fellow human beings who are widely
+distributed over this vast world. No one thirty years ago would ever
+dream of computers being used as they are in the information
+superhighway, rather than for scientific computing. 
+The sudden boom
+in the use of computers today, is evident by the visible 70% increase in
+the number of hosts on the Internet yearly. Man has needed computers
+not only to control the forces of nature, but also those of distance,
+and time.
+
+
+	Ever since I was a child I have been interested in mathematics,
+and have always stood first in my class in it. When my teenage years 
+came along, I decided that I would pursue a career in mathematics and
+science. It was with this hope that I studied very deligently for the IIT
+entrance exam. My hard work payed off, and I joined IIT (Bombay) for a
+bachelors degree in computer science and Engg. During my stay at IIT,
+I was introduced to computers in my very first month. It was an extremely
+exciting experience because it was the first time I had used a
+computer, since the use of computers in our country, is only restricted for
+those who are financially well off.
+
+My Work:
+	At IIT, I was introduced to various new concepts in computer
+science. The very first courses of Discrete Structures, and Data
+structures, aroused my interest immediately. I started also getting
+interested in Databases, Computer Architecture, and Compilers. I did
+my Bachelor's seminar project "Building Applications using the Object
+Oriented Paradigm" under the guidance of Prof. N.L. Sarda. It mainly
+consisted of studying the Object-Oriented Paradigm, and Object-Oriented
+Databases. I studied how to build Object-Oriented Applications above
+relational databases, which came in use during my short job with
+Burroughs Wellcome pharmaceuticals, in building an Engineering
+inventory system for them. I also studied how objects are stored, and
+indexed in Object-Oriented Databases.
+	My Bachelor of Tech. project consists of parallelising
+sequential code and running independent sections of code in parallel.
+For doing this I have been studying data dependence issues. During the
+course of my work I got particularly interested in Exact Array
+Dependence. I have read a lot of papers related to the
+field. Prof. Pushpak Bhattacharrya is my guide on this project.
+
+	
+My Purpose
+	My vocation has always been to work towards new frontiers of
+technology, and always work with the purpose of getting the best
+result. Over the last few years during my stay at IIT, I have become
+motivated towards pursuing a career in research. Research has
+interested me, because one is always working on something new, that no one
+else has worked on, and one can always pursue one's own interest to the
+fullest. Research provides one with new challenges daily, which one
+won't come across in other jobs. I strongly believe in both
+the theoretical aspects of research as well as their applications.
+I consider the latter to be as important and relevant as the former.
+I am extremely interested in pursuing a MS/PHD at your university. 
+I am primarily interested in Databases, Parallel systems and graphics.
+
+	In fact, ten years from now, I envisage myself as a full fledged
+research professional in an organisation or a faculty member at one of the leading universities. In order to fulfil this aim of mine, I seek to enrol for a
+MS/PHD in computer science at your University. Through the department brochure
+I realize that a vast gamut of opportunities exist in your department. Hence
+I am keen in joining your program, and furthering your research.
+
+
+My Good And Bad Points:
+
+	I strongly believe in maintaining ethical integrity in all my
+endeavours. The maintenance of strong christian values is of utmost
+importance in my work. I am also a very friendly person to work with.
+My bad qualities include having a bad memory, and being absent minded.
+
+	I would like to end by saying that that I am fully aware that a career
+in research and academics requires a high level of intelligence, unwavering 
+dedication and a lot of sacrifice. I am confident that I would meet all the
+above demands, and hence I appeal to the Graduate Admissions Committee to
+consider me for admission, and financial aid.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [ Part 33: "Attached Text" ]
+
+\documentstyle[12pt,a4wide]{report}
+\pagestyle{empty}
+%\setlength{\parindent}{0in}
+%\setlength{\textheight}{10in}
+%\setlength{\textwidth}{7in}
+%\setlength{\topmargin}{-1cm}
+%\setlength{\oddsidemargin}{-1cm}
+\begin{document}
+
+
+\begin{center}
+\center{\underline{\bf Statement of Purpose} }
+\end{center}
+
+\vspace{.2in}
+
+        I am a final year student of  the  B.  Tech.  program  in
+Computer  Science  and  Engineering  at  the  Indian Institute of
+Technology, Bombay.
+
+My undergraduate preparation here has given me a very
+substantial knowledge of the basic areas of Computer Science.
+I have always strived to develop a  clear  understanding  of  the  basic
+concepts and acquire an insight into the Science of Computing.
+Any amount of learning in Computer Science would be incomplete without
+hands on experience of Programming. In this regard I have completed various 
+projects, both as part of my courses and out my own interest also.
+
+
+Of the many fields in the Computer Science spectrum, I have developed
+a keen interest in Declarative Programming Languages, Computer Graphics, 
+ Computational Geometry and Design and Analysis of Algorithms.
+
+        I  have  excelled  in  academics  at  every  step  in  my
+education.  In  my  12 years of schooling I always ranked first/second 
+in the class. In the entrance examination for the IITs, I stood 17th 
+among 80,000 students. I have consistantly done well throughout my 
+undergraduate studies also. My GPA is 8.38/10.00 after the end of
+seventh semester. 
+
+	
+        The  urge  to  obtain  an  in-depth   understanding   and
+specialized  knowledge  in  my areas of interest, has made me opt
+for Graduate studies. I would  like  to  follow  up  my  graduate
+studies  by taking up a research oriented post in either academia
+or research laboratories so that I can contribute my own  bit  to
+the ever-increasing knowledge in these areas.
+
+        I believe that the initiation of the process of  original
+contribution  is  best done by working towards a Ph.D. I view the
+masters degree as an intermediate step in  achieving  this  goal.
+Hence,  I would like to take up an M.S. culminating in a Ph.D. as
+my immediate goal.
+
+%%%% Univ para
+	From the information about current faculty research, which I obtained 
+from the application brochure, I find that pioneering  research work is
+being done in declarative languages and related architectures at the
+Arizona State University.
+Being part of such an excellent research team will be a big  step in  
+achieving   my long   term   goals.   The  highly competitive and 
+intellectually stimulating atmosphere at the Arizona State university
+will  bring   out the   best  in  me. 
+ This  prompts me to apply for graduate studies at your university.
+
+        Keeping in view my background and career plans,  I  would
+prefer  a  research  assistantship but I would  also like to have 
+teaching experience. I have studied in English medium through out
+and have had teaching experience here in IIT also, which makes me confident
+that I would be a successful teaching assistant.
+
+        In conclusion, I would  say  that  I  am  very  keen  and
+enthusiastic about joining your university. I am aware of the hard work and 
+perseverence necessary for research work but
+I am sure that I will be able to justify to the fullest the confidence reposed in me.
+
+\end{document}
+
+
+
+
+
+
+
+
+  [ Part 34: "Attached Text" ]
+
+\documentstyle[a4,12pt]{report}
+\pagestyle{empty}
+\begin{document}
+\begin{center}	{\Large \bf Statement of Purpose}  \end{center}
+\vspace{1cm}
+
+\noindent
+	I am a senior year student in the Department of Computer Science and
+Engineering at the Indian Institute of Technology, Bombay, one of the
+most renowned institutes for undergraduate studies in India. My decision
+to pursue graduate studies has been motivated by my eventual objective of 
+meaningful research in the field of {\bf Computer Networks} and {\bf Communications}. I firmly believe that I possess the requisite background and aptitude
+for pursuing active research in this field at your University.\\
+
+\noindent
+	A strong desire to ingrain the fundamental principles of any subject
+of study has enabled me to adopt a rigorous and analytical approach to problem
+solving. More importantly, it has inculcated in me the methodology of 
+scientific inquiry. Throughout schooling I maintained the first position in
+my class. In consonance with my interests, I worked towards obtaining admission
+to the Indian Institutes of Technology and secured a rank of 92 among 85,000
+candidates who appeared in the entrance examination. Computer Science and
+Engineering was a natural choice for my undergraduate studies in light of 
+my fascination for computers.\\
+
+\noindent
+	My interest in research has burgeoned during the course of my
+undergraduate studies at IIT, Bombay. My major field of interest is computer
+networks and telecommunications. At present I am working on my senior year
+B.\ Tech.\ Project on {\bf Fast Packet Switching in ATM Networks} under the guidance of Dr.\ M.\  Khalid. It involves the 
+design of a non-blocking Disjoint Path Packet Switch and the analysis of its 
+performance in terms of the throughput, delay, packet loss rate, hardware complexity and the ease of growability. The proposed switch combines the 
+delay/throughput performance  of $N^{2}$ disjoint path switches and the 
+multicasting performance of Shared Medium switches in a single architecture.
+The attempt is to reduce the hardware cost
+of implementing the switch without compromising on any of the performance
+characteristics of an ideal packet switch. To consolidate my knowledge in 
+this field I had also taken an elective course titled {\em Introduction to
+Computer Networks} last semester in which I got the highest grade in the class.\\
+
+\noindent
+Apart from delving deep into the field of Computer Networks, I have tried 
+to broaden  my perspectives in other fields of Computer Science as well. 
+In my junior year I presented a Seminar on {\bf Anti-aliasing in Computer Graphics}
+under the guidance of Dr. Sharat Chandran. The seminar involved an
+exhaustive study of the various anti-aliasing techniques used to overcome
+the jagged effects arising due to the discrete sampling in a raster graphics
+system. I also implemented an anti-aliasing software package as part of 
+a project in an elective course on Computer Graphics.\\  
+
+\noindent
+I also have the ability
+to work in a group project effectively. I had done my industrial training in
+the Regional Computer Center at Oil and Natural Gas Corporation Limited and
+during the course of the summer project I developed a data compression
+package. The 
+practical  experience I gained after working in such a big organization
+has  given me immense confidence in tackling time-bound practical 
+problems.\\
+
+\noindent
+My 
+undergraduate studies in the invigorating environment of IIT, Bombay has
+given me substantial knowledge of the basic areas of Computer Science. I
+believe that I also possess the ability and temperament to function 
+effectively as a Teaching Assistant. I was an assistant for a course on Computer Programming for freshmen and I have helped in organizing two
+workshops on UNIX and C conducted by our department. \\
+
+\noindent
+Having been part of an exacting undergraduate program at IIT,
+Bombay, I have internalized the desire to explore frontline knowledge in my 
+research area. I believe that the Graduate Program at your University will
+provide me the opportunity to satisfy the same and enable further honing 
+of my technical and analytical skills acquired thus far. I am fully aware 
+of the commitment and perseverance required for research and believe that
+my aptitude and motivation will see me through the challenge. I am also
+confident that given an opportunity, I can contribute to the ongoing work 
+in your graduate program in a productive manner. I therefore look forward 
+to joining your University for pursuing higher studies leading to a Master's/Doctoral degree.\\
+
+\begin{tabbing}
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\= \kill
+\>ARVIND KAUSHAL\\
+\end{tabbing}
+\end{document}
+
+
+
+
+  [ Part 35: "Attached Text" ]
+
+\begin{center}
+{\Huge Statement of Purpose}
+\end{center}
+
+	My objective in graduate studies is to prepare myself for my
+long term goal of a career in research and teaching in Computer Science. 
+The first step in that direction is pursuit of Ph.D. in Computer Science.
+
+	Ever since I was in high school, I wanted to be a scientist. 
+Hence I joined IIT
+Bombay, where I chose Computer Science as my undergraduate major.
+The undergraduate programme in Computer Science and Engg. in 
+IIT Bombay is unarguably one of the best in India and 
+the core courses in the undergrad curriculum have helped me get a 
+a sound grasp of the fundamentals of almost all aspects of Computer Science,
+which is reflected by my position in the top five in a class of 33. 
+At IIT, I also discovered the 
+intellectual satisfaction of solving difficult problems on my own. 
+In the summer vacation after the first year, I worked for some time with 
+a research scholar in the department of Computer Science and Engg. 
+This work led to a research paper,
+``Heuristics for Distributed Knowledge-Based Systems'', which was published in 
+1994. Because of this and my success in the undergraduate courses, 
+I feel that a career in research is suited both to my aptitude and temperament.
+
+	My idea of research in graduate studies is a proper balance of 
+theory and practice. i.e. to get theoretical results and to see, as far as
+possible, the 
+immediate impact of the same through their implementation. I am aware of the 
+tough and arduous nature of this task and willing to take on this challenge.
+I believe that I have the requisite intellectual ability, motivation and the
+willingness to sacrifice leisure for work in order to fulfill my objective 
+of scientific research and the attainment of intellectual satisfaction 
+therefrom. Thus I believe that I will be able to make a meaningful 
+contribution to the research work at Rice University. 
+
+	The exacting nature of the undergraduate labs in IIT Bombay 
+have already given me a comprehensive knowledge of systems and 
+systems programming. But I feel that a 
+strong background in theory is essential for a successful career in research 
+in an academic environment. 
+	So in order to augment the  knowledge of theory which I got from the 
+core courses, I am trying to learn
+as much of theory as possible in my undergraduate programme. I took two
+courses on {\em Algorithms} and one on {\em Formal Specification and Verification of Programs} for my department electives in the seventh semester
+and I will be taking a course in {\em Combinatorics}
+next semester. My credit seminar topic viz. {\bf Randomized Algorithms} under the guidance of Prof. Sundar Vishwanathan, was
+also in theory. Looking at the beautiful results in algorithms, I am sure that I
+would be exhilarated to get some new exciting results on my own. But 
+implementing the results and proving their practicality would give me 
+greater satisfaction. My one-year B. Tech. Project, under the guidance of 
+Prof. D. M. Dhamdhere, involves the design and 
+implementation of an {\bf Optimizer Generator System}. In this, I have to
+come up with my own idea for implementing inter-procedural may-aliasing. 
+
+Currently, my research interests are in Parallelizing and  Optimizing 
+compilers and I have worked in both. I am also interested in Algorithms.
+I am eager to explore some of these in greater depth and make my own 
+contribution, howsoever small, to those fields.
+
+During my preparation for my B. Tech. Project, I read 
+numerous research papers from Rice University. 
+Thus my choice of Rice University for graduate 
+studies is based on a careful examination of the 
+information regarding the faculty members and the research currently going on 
+in your school. 
+
+I look forward to joining your department as 
+a graduate student. I am confident that 
+graduate studies in Rice University will prove to be a rewarding 
+task and I shall be able to fulfill my career objectives. 
+
+\begin{flushright}
+Vijay Gupta
+\end{flushright}
+
+  [ Part 36: "Attached Text" ]
+
+ANDA:
+
+My undergraduate studies in the department of computer Science and
+Engg at IIT Bombay have exposed me to a stimulating academic
+environment where learning and research go together
+
+ The possibilities of research in this field 
+fascinate me. 
+
+I have excelled in academics at every step in my education. Throughout
+twelve years of schooling I have always been ranked among the top of
+my class. I was introduced to Computer Science in junior college. I
+was awarded the Merit Certificate for my performance in the All India
+Senior School Certificate Examination - {\bf 100\%} in Computer
+Science, {\bf 99\%} in Mathematics, Physics and Chemistry. I was also
+placed seventh in the state wide Physics Talent Test of the Physics
+Society, Madras. In the highly competitive entrance examination to the
+IITs I was ranked 134th among over 100,000 students.
+
+
+ Working under an expert whose work can serve as a model will
+set me on the path to contributing significantly to the ongoing
+research at UCLA.  The research interests of the other faculty members
+cover a large number of topics in Computer Science and this will
+enable me to keep in touch with the latest developments in these
+fields. The excellent facilities offered by your department will
+provide an environment conducive to successful graduate work
+
+
+BAPAT:
+
+In  turn  I shall  get
+intellectual  satisfaction  and  the gratification of becoming  a
+contributor  to   knowledge   through  research  and  the greater
+personal rewards of  learning  and  discovery
+
+BARVE:
+
+I have performed reasonably well in my undergraduate courses at IIT,but
+since IIT admits only the best students throughout the country, I 
+believe ,in view of the competitive atmosphere, that the grades secured
+should not be considered in an absolute sense.
+
+BRAJESH:
+
+Long Term Goals
+
+My undergraduate studies in the Department of Computer Science and En-
+gineering at the Indian Institute of Technology, Bombay has exposed me to
+a stimulating academic environment where learning and research go hand-in-
+hand.  Through the many opportunities I have had here, I have found that I
+have a deep interest in research work and a strong aptitude for the type of pro*
+ *b-
+lem solving and problem discovery that it involves. I have, therefore decided to
+pursue active research in Computer Science as a career.
+
+
+CHANDE:
+
+After carefully considering my aptitude, interests, the nature of my training
+and my ultimate professional ambition, I have decided to pursue Ph. D. in
+electrical engineering specialising in the fields of my interest namely-
+Communications, Signal Processing and Information Theory and Coding,
+ultimately leading to a career in teaching and research. As a 
+statement of purpose of my graduate study, I describe here my academic
+background, my research interests and my career goals.   
+
+
+CHANDE:
+
+>From the residential system of IIT Bombay, I have been able to have a glimpse
+of the academic life and the sacrifices it involves. I feel that it is this
+kind of life that I am best suited for. I feel that I have enough           
+motivation to see me through the challenges of the arduous but exhilarating 
+career in research.
+
+CMS:
+
+My decision to apply to {\bf Indiana University} is based on a careful
+examination of the department brochure, world wide web information and
+talking to my guide Dr. S. Ramesh. Indiana has a strong faculty in Programming
+Language Design. Entering the Ph. D. program here will be ideal for me.
+
+
+ESSEL:
+
+My training at I.I.T., Bombay has not only equipped me with a strong
+technical base but has also instilled in me a deep interest in
+research.
+
+Study in the Department of Computer Science and Engineering at I.I.T., Bombay has demanded long hours of continuous work, self-motivated efforts and a
+considerable amount of group activity. It has given me several
+opportunities to participate in various departmental activities,
+albeit in a small way. Learning by myself and sharing my knowledge
+with others has always been of prime importance to me. I have limited
+teaching  experience from tutoring an elementary course on FORTRAN-77 for
+students of first year B.Tech. program. I enjoyed the experience and
+would  like to teach in future too
+
+I look upon graduate study as an avenue to refine my skills and give
+a direction to my research career. It would be my first chance to make
+fundamental contribution to the field in which I undertake research.
+
+
+RPG:
+
+ An objective analysis of my background,
+interests, strengths and weaknesses leads me to believe that I will be
+successful both as a Ph.D. candidate and later as a researcher in an
+academic milieu. 
+
+	Over the past two years at IIT, I have cultivated a keen interest
+in the field of {\bf Asynchronous Circuits, Formal Design Methods in VLSI}. I
+have furthered my knowledge in this field by reading various related
+articles and am actively involved in research in this area. I  have
+also opted for a graduate level course {\bf IC Design Technology} in Spring
+96. I am currently working on {\bf Asynchronous Communication between
+Synchronous Finite State Machines} for my B.Tech. thesis under the
+guidance of {\bf Prof. S. Ramesh}. I am working towards implementing
+communication primitives such as {\bf rendezvous, probe} etc. at gate level
+in VLSI circuits. I am investigating different interconnect design
+methodologies which can be implemented as {\bf delay-insensitive
+asynchronous circuits}. In the first stage of this work, we have
+proposed a {\bf new protocol} to implement {\bf asynchronous rendezvous 
+communication} and a method to implement this protocol using asynchronous 
+circuits. I  firmly believe that this project is a sufficient 
+demonstration of my ability to conduct original and independent 
+research.  
+
+I believe that a symbiotic relationship between the student
+and his department is of utmost importance for a successful graduate
+program. Considering the pioneering work going on at your department
+in the field of my interest, your department is an ideal choice for an
+exciting research career. At the same time, I am confident of
+contributing originally to the ongoing work at your department. By
+working under the guidance of distinguished faculty at your
+department, I am sure, I will be able to exploit my potential to the
+fullest.
+
+SHISHIR:
+
+{\large {\bf Strengths}}\\
+There are a few things whose value I realized during my undergraduate
+studies and now I strongly believe in them. These are {\em hard work}
+-- Necessity to produce results, {\em discipline} -- Necessity to finish 
+task before deadlines and {\em persistence} -- Necessity to sail through 
+unproductive periods. My attempt throughout has been to inculcate these 
+qualities in myself in which, I believe, I have been fairly successful.\\
+ 
+\noindent
+{\large {\bf Weaknesses}}\\
+A major weakness of mine has been my speed. I always try to attack a problem
+in depth which invariably requires some amount of time. As a result, I have not
+been able to perform very well in ``three hour'' exams. This weakness has been 
+reflected in my grades. However, given sufficient time I have always been able
+to show good results, reflected by the good grades (AA or AB) in 
+lab courses involving projects.\\
+
+CRAI:
+
+In conclusion, I would like to reiterate that I possess the required 
+background and the ability to make a significant contribution to Computer
+Science and to Cornell. This is testified by my excellent academic record
+from school through my undergraduate years. I hope you will take
+a favorable decision regarding my admission to the Ph.D. program 
+and look forward to joining the Department. \\
+
+During the course of my education at IIT,  I  have  realized  and
+felt  convinced that my true liking and aptitude lies in research
+and teaching. Research and teaching go  hand  in  hand.  Teaching
+gives one a sense of constructive participation in the education
+process. Research enables a person to  stay  in  touch  with  the
+latest  advances,  while  making  one's  own contributions to the
+field.
+
+VORA:
+
+%
+% Statement of long term goals
+% Academic acievements
+% Brief desc. of field of study
+% Experience in field of study
+% Univ para
+%
+
+  [ Part 37: "Attached Text" ]
+
+
+        I am a final year student of  the  B.  Tech.  program  in
+Computer  Science  and  Engineering  at  the  Indian Institute of
+Technology, Bombay.
+
+        My undergraduate study has given me a sound base  in  the
+whole gamut of fields in Computer Science and Engineering. 
+always strived to develop a  clear  understanding  of  the  basic
+concepts and acquire an insight into the Science of Computing.
+
+        I have developed a keen interest  in Database Management
+Systems, Real Time Systems, Operating Systems, Object Oriented 
+Systems and related fields. 
+
+        I  have  excelled  in  academics  at  every  step  in  my
+education.  In  my  12 years of schooling I always ranked first/
+second in the class.  I  was  also  ranked  FIRST  in  the  Maths
+Olympiad  at  the  State  level.  I was selected in top 1% of the
+examinees in  the  Physics  talent  search  examination.  In  the
+entrance  examination  for  IIT,  I  stood  47th  amongst  80,000
+candidates.
+
+        I have done well throughout my undergraduate studies  and
+have  obtained  top  grades in the courses related to my areas of
+interest. This has resulted in my high GPA of 8.92/10.00  by  the
+end of sixth semester.
+
+        The  urge  to  obtain  an  in-depth   understanding   and
+specialized  knowledge  in  my areas of interest, has made me opt
+for Graduate studies. I would  like  to  follow  up  my  graduate
+studies  by taking up a research oriented post in either academia
+or research laboratories so that I can contribute my own  bit  to
+the ever-increasing knowledge in these areas.
+
+        I believe that the initiation of the process of  original
+contribution  is  best done by working towards a Ph.D. I view the
+masters degree as an intermediate step in  achieving  this  goal.
+Hence,  I would like to take up an M.S. culminating in a Ph.D. as
+my immediate goal.
+
+        From my literature survey, I find that the research  work
+in  Computer  Graphics at Cornell University is state of the art.
+The additional information I  got  from  my  correspondence  with
+Prof.   Greenberg and from my brother Rajendra Kolhe who is doing
+his Ph.D.  at your university,  have  confirmed  my  belief  that
+Cornell  is  the  college  where  I  want to pursue my Ph.D.  The
+computer graphics program at Cornell is considered to be  one  of
+the best programs in the world in this field.  Being part of such
+an excellent research team will be a big  step in  achieving   my
+long   term   goals.   The  highly competitive and intellectually
+stimulating atmosphere at Cornell  University   will  bring   out
+the   best  in  me.  This  prompts me to apply for the program in
+Computer Graphics at Cornell University.
+
+        Keeping in view my background and career plans,  I  would
+prefer  a  research  assistantship.  This  would give me a better
+opportunity to pursue my interest  to  the  fullest.  However,  I
+would  also like to have teaching experience for one semester. As
+I  have studied  in  an  English  medium  throughout   and   also
+have the experience of being a course assistant  and  a  lecturer
+in  two workshops,  I  am  confident that I will be a  successful
+teaching assistant.
+
+        In conclusion, I would  say  that  I  am  very  keen  and
+enthusiastic about joining your university. I am sure that I will
+be able to justify to the fullest the confidence reposed in me.
+
+Jayant Kolhe
+
+  [ Part 38: "Attached Text" ]
+
+	I have always cherished a career in research and training in
+Computer Science. I feel that graduate studies at a good university
+like yours in pursuit of a PhD would be a step in that direction. I am
+confident that I will be extremely successful both as a graduate
+student and later as a researcher and teacher.
+
+	Ever since I was in school, I was interested in
+Mathemetics. My success at the Regional Maths Olympiad and The
+National Talent Search examinations boosted this interest. I was also
+introduced to programming in school and was fascinated by
+computers. With these interests Computer Science was the ideal choice
+as my undergraduate major.
+
+	The Computer Science and Engineering department at IIT Bombay
+has a good faculty and a wonderful course structure. It is undoubtedly
+one of the best in the country. The undergraduate curriculum here
+exposed me to all the basic areas in Computer Science and I have
+consistently performed well in all the core courses. I have always
+adopted a rigorous approach to learning and have tried to grasp the
+fundamentals of all the subjects. This is amply reflected in my GPA of
+9.09 on 10(3.80 on 4) in a highly competitive class and in my position
+in the top 5% of my batch in the institute.
+
+	Over the past one and a half years I have developed an
+interest in the field of Programming Languages and Systems, especially
+compilers. I have performed well in the basic systems courses like
+Language Processors, Programming Languages, Database management
+systems and Operating systems (please refer the resume). I have also
+chosen as one of my electives for Spring 96 the course titled
+Foundations of parallel computation. 
+
+	I am currently working on my B. Tech thesis - which is in the
+field of compilers - under the guidance of Prof. D.M. Dhamdhere. I am
+involved in the development of GENSAT - a generator for static
+analysis and transformation programs. We have already incorporated
+into GENSAT a framework to implement intraprocedural data flow
+analysis using bitvectors for the representation of data flow
+properties. I am extending this framework by providing for the usage
+of sets instead of bitvectors. This will make GENSAT a generic tool
+for solving monotone dataflow problems. I am also studying various
+techniques for interprocedural data flow analysis. My aim here is to
+abstract a framework in which these techniques can be implemented. In
+this pocess I will be modifying existing algorithms and possibly
+finding a new one.
+
+	My interests are well supported by my strong theoretical
+background. In my junior year I presented a home paper on the
+"Theoretical Consequences of the Ellipsoid Method". I have audited
+(taken as non-credit) a Post Graduate course on algorithms titled
+"Current Topics in Theory and Algorithms" and I have currently taken
+another elective on the Design and analysis of algorithms. I have also
+done a course on Geometric Algorithms which gave me a good exposure to
+Randomization in algorithms. I am confident that these and the other
+courses I have done will stand in good stead in any future research I
+undertake.
+
+	I have always loved solving problems. The pleasure obtained
+from being absorbed in problems over extended periods of time and
+finally arriving at solutions is immeasurable. Many times I have
+arrived at solutions that were very different from those of others.
+This unique bent of mind coupled with a desire to be at the forefront
+of a budding field drive me to pursue research. I believe myself to
+be mature, committed
+
+	I have good reason to believe that I will be successful as a
+teacher. I have received enthusiastic response from my students when I
+was a course assistant in an undergraduate course titled "Computer
+Programming and Utilization". I have also been a lecturer and tutor in
+two UNIX workshops conducted by our department at the institute
+level. Further, I believe that teaching a subject gives us greater
+insight into it.
+
+	I have chosen to pursue Graduate studies at New York
+University because the facilities there seem to foster a healthy
+research environment as I could gather from the brochure of your
+department. 
+
+I believe that I possess  the  motivation,  the  intellectual 
+ability, and the preparation to  set  out  on  this  exhilarating  and 
+arduous path, to do justice to a demanding Graduate program and to make 
+significant contributions to the ongoing work at the Kansas State University.
+
+
+
+
+
+
+
+	
+
+  [ Part 39: "Attached Text" ]
+
+\documentstyle[12pt,a4]{article}
+\pagestyle{empty}
+\begin {document}
+\centerline {\Large  STATEMENT  OF PURPOSE}
+\vspace{0.5in}
+
+I am a student of Computer Science and Engineering at Indian Institute of
+Technology (I.I.T.), Bombay. I wish to pursue a career in research in 
+Computer Science. I would like to embark upon this venture through the 
+Doctoral Program offered by the Department of Computer Science at Rice
+University. 
+
+My deep interest in Computer Science stems from a natural aptitude for logic
+and mathematics, the ``queen of sciences''. I consider Computer Science not 
+just as a field to pursue a research career in, but as a
+hobby. Throughout  my undergraduate study, I have endeavoured to gain a
+broad  perspective of Computer Science. My fields of interest range
+over a wide spectrum of areas; however I am especially fascinated by
+Programming Languages, Real-Time Systems and Parallel Processing.
+
+My training at I.I.T., Bombay has not only equipped me with a strong
+technical base but has also instilled in me a deep interest in
+research.  During the course of my B.Tech. curriculum, I have presented a
+seminar titled {\bf ``Selected Topics in Advanced Architectures''} under the 
+guidance of Prof. S.S.S.P. Rao. During the summer of 1994, I had the rare
+opportunity of working at {\bf Bhabha Atomic Research Centre
+(B.A.R.C.)} , Bombay, a forerunner of Parallel Processing in
+India. The training at B.A.R.C. has  demonstrated to me how emerging
+technology when combined with ingenuity can be employed to solve
+apparently diverse problems in Physics and Medicine. I am currently
+working on my B.Tech. project titled {\bf``Statechart Simulation Using
+Binary Decision Diagrams''} under the guidance of Dr. S. Ramesh. Despite the
+intense competition at I.I.T., I have been  consistent in  my
+performance; with a Cumulative Points Index of {\bf 8.83} I stand $9^{th}$
+in a class of 33 students. 
+
+Study in the Department of Computer Science and Engineering at I.I.T., Bombay has demanded long hours of continuous work, self-motivated efforts and a
+considerable amount of group activity. It has given me several
+opportunities to participate in various departmental activities,
+albeit in a small way. Learning by myself and sharing my knowledge
+with others has always been of prime importance to me. I have limited
+teaching  experience from tutoring an elementary course on FORTRAN-77 for
+students of first year B.Tech. program. I enjoyed the experience and
+would  like to teach in future too.
+
+I look upon graduate study as an avenue to refine my skills and give
+a direction to my research career. It would be my first chance to make
+fundamental contribution to the field in which I undertake research. 
+The excellent research facilities at Rice University and the distinguished
+faculty are a great source of inspiration to me. The emphasis on 
+multidisciplinary  seminars and research projects would definitely
+encourage me to  explore other related areas within the realms of
+Computer Science.
+
+I hope I fit in with your expectations of a promising graduate student.
+Admission to the Department of Computer Science at Rice University
+could well be that golden foundation upon which the entire edifice of my
+scientific career rests.
+
+
+\vspace{0.6in} 
+\flushleft{\today} \\
+Bombay. \hspace{2.85in} (Shilpa Suresh Lawande)
+\end {document}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [ Part 40: "Attached Text" ]
+
+>From ananth@agni.me  Thu Nov 30 10:25:24 1995
+Return-Path: ananth@agni.me
+Received: from iitb.ernet.in (gateway [144.16.96.2]) by kailash.cse.iitb.ernet.in (8.7/8.7.Beta.13) with SMTP id KAA04112 for <vora@kailash.cse.iitb.ernet.in>; Thu, 30 Nov 1995 10:25:24 +0530 (IST)
+Received: from agni.me.iitb.ernet.in  by iitb.ernet.in
+   (8.6.12/IITB-MHS-7.0) id KAA13696; Thu, 30 Nov 1995 10:21:33 +0530
+Received: by agni.me.iitb.ernet.in; (5.65/1.1.8.2/31May95-0520PM)
+	id AA25467; Thu, 30 Nov 1995 10:23:15 +0530
+From: Ananth Krishnamurthy (91710009)  <ananth@agni.me>
+Date: Thu, 30 Nov 1995 10:23:15 +0530 (IST)
+To: vora@kailash.cse.iitb.ernet.in
+Subject: Finally  Chande's SOP
+Message-Id: <Pine.OSF.3.90.951130102149.25920A-100000@agni.me.iitb.ernet.in>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+
+
+\documentstyle[12pt]{article}
+\evensidemargin 0.5in
+\oddsidemargin 0.0in
+\topmargin 0in
+\textwidth 6.65in
+\headheight 0in
+\headsep 0in
+\textheight 9in
+\footheight 1.0in
+\footskip 0.5in
+\footnotesep 2em
+\begin{document}
+\setcounter{page}{1}
+\title{Statement of Purpose}
+\date{}
+\author{ }
+\maketitle
+
+After carefully considering my aptitude, interests, the nature of my training
+and my ultimate professional ambition, I have decided to pursue Ph. D. in
+electrical engineering specialising in the fields of my interest namely-
+Communications, Signal Processing and Information Theory and Coding,
+ultimately leading to a career in teaching and research. As a 
+statement of purpose of my graduate study, I describe here my academic
+background, my research interests and my career goals.   
+
+ 
+The undergraduate programme at Indian Institute of Technology, Bombay is a
+well rounded programme. It not only helped me build a solid foundation of
+Electrical Engineering fundamentals, but also helped me develop an overall
+perspective of the vast field of Electrical Engineering. In the final year I
+developed a keen interest in the areas of Communications and Signal
+Processing. I substantiated my knowledge of these areas by choosing electives
+on Digital Communications, Communication System Theory (Random Processes in
+Communications), Digital Signal Processing and Information Theory and Coding. 
+
+In the Master of Technology Programme, I specialised in Communications. 
+Taking advantage of a fully flexible course structure, I have chosen
+electives on Statistical Signal Analysis, Applied Linear Algebra in
+Electrical Engineering, Theory of Error Correcting Codes, Image Processing
+and Adaptive Signal Processing. Apart from these, I have taken courses on two
+special topics in Electrical Engineering namely- Computational  Vision and
+Artificial Neural Networks. 
+
+ I have striven to perform well in the courses and have tried to gain
+ as much  as I could from them. But I feel that the real qualification 
+ of a good graduate student is his ability to perform independent research 
+ work under the guidance of an advisor.  My B.Tech. (final year) project
+ under Prof. P. G. Poonacha  gave me such an opportunity. In my B. Tech.
+ project I studied convergence issues in Non-Symmetrical and Higher order
+ Neural Networks . First part of the project has been submitted to 
+ IEEE Trans. Neural Networks as a brief paper. It has been accepted after
+ review.
+ 	
+ In my M.Tech Programme, I did a mini project on determination of rotation
+ parameters of a lamina from its binary images using moment-invariants
+ of the images. I did an intensive seminar (a survey of literature) on
+ Simulated Annealing Algorithm for Optimisation. 
+  
+My M.Tech. thesis deals with Information across Boolean Functions. It
+involves establishing relationship between complexity measures of Boolean
+ Functions and an attempt to study the nature of optimal circuit through 
+ restrictions of a Boolean function. 
+
+ The project work and the course work have further interested me in
+Communication and Signal Processing and have motivated me to learn more of
+these areas.  Also, the ideas involved in finding fundamental limits on
+capabilities of information extraction and transmission and the attempts at
+achieving the limits - which form the core of information theory - have
+interested me very much.  I realise that techniques and the tools used there
+overlap. Therefore I have taken liberty to quote these broad areas as
+research interests. Specifically the areas of my interest are Source Coding/
+ Data Compression,  Information Theory and Coding, Statistical Signal Processing,
+Digital Communication, 
+ Multi-user Communication,
+optimal filtering and detection and estimation.
+I am also interested in the application of Neural Networks
+to these areas. 
+
+The Department of Electrical and Computer Engineering at UCSB is  a well known 
+center of excellence.  The department faculty consists of leading researchers    
+engaged in frontline research. The research interests of the faculty are extremely 
+compatible with those of mine, a fact underlined by the fact that some of 
+the faculty members are pioneering people in their fields. In particular,
+I would like to work with  the faculty involved with the Center for Information 
+Processing and Research. I shall be glad to be a part of the group and witness 
+and contribute my bit to the leading research being carried out at UCSB.
+An opportunity to work in the stimulating environment at UCSB will certainly
+make the graduate study a rewarding exercise and a satisfying experience.
+In terms of research facilities also, a university like UCSB has more to offer to 
+a graduate student. 
+ I, therefore, look forward to joining UCSB as a graduate student.   
+    
+                                          
+As professional goal, I would like to  take up a career in  research and teaching.    
+>From the residential system of IIT Bombay, I have been able to have a glimpse
+of the academic life and the sacrifices it involves. I feel that it is this
+kind of life that I am best suited for. I feel that I have enough           
+motivation to see me through the challenges of the arduous but exhilarating 
+career in research.
+
+I thank Prof. Gersho and Prof. Rose for their advice and valuable information.
+
+\vspace{40mm}
+\flushright{}
+
+\flushright{Applicant for Ph.D.\\ in Electrical And Computer Engineering}
+
+\end{document} 
+
+
+
+
+
+
+
+
+
+
+
+__________________________________________________________________________
+Ananth Krishnamurthy                    Email: ananth@me.iitb.ernet.in
+__________________________________________________________________________
+
+
+
+
+  [ Part 41: "Attached Text" ]
+
+
+
+                   Statement of Purpose
+
+
+Long Term Goals
+
+My undergraduate studies in the Department of Computer Science and En-
+gineering at the Indian Institute of Technology, Bombay has exposed me to
+a stimulating academic environment where learning and research go hand-in-
+hand.  Through the many opportunities I have had here, I have found that I
+have a deep interest in research work and a strong aptitude for the type of pro*
+ *b-
+lem solving and problem discovery that it involves. I have, therefore decided to
+pursue active research in Computer Science as a career.
+
+
+Areas of Interest
+
+Of the many fields in the Computer Science spectrum, I am interested in com-
+puter systems. In particular, I am interested in Databases.
+
+
+Immediate Goals
+
+I plan to work towards a Ph. D. with a focus on Databases. I would also like
+to follow up my interests in Computer Systems through my course work. I feel
+that this should be my next step on my road to a research career in Computer
+Science. I would be most willing to work directly for a Ph.D. if it is possible.
+However, I would be willing to do M.S. as a first step towards obtaining my
+Ph.D.
+
+
+Academic Background
+
+Throughout 12 years of schooling, I had always been among the top ranking
+students in the class. I was ranked 47th out of 80,000 students (99.94%ile) in
+the national level entrance examinations to the IITs. I was ranked 2nd in the
+state level entrance examinations for the state engineering colleges. Currently
+with G.P.A. of 9.00 on scale of 10.00, I am among the top 5% of the students of
+my batch in the Institute. This high level of consistency in my academic record
+makes me feel confident enough to hold my own againgst the very best.
+
+
+Preparation for Graduate Study
+
+My undergraduate preparation at the Computer Science and Engineering De-
+partment of the Indian Institute of Technology, Bombay has given me a very
+substantial knowledge of the basic areas of Computer Science.
+Any amount of learning in Computer Science would be incomplete without
+hands on experience of Programming.In this regard I completed various mini
+projects both out my own interest and also as a part of some of my courses
+
+
+
+My senior year dissertation under Dr. S.Seshadri ( Ph.D. Wisconsin Madi-
+son ) is titled B+ -Tree Concurrency Control Algorithms in Real-time environ-
+ment.  Operations on B+ -Tree are crucial while maximizing concurrency in a
+Database System. In real-time environment in which each such operation has
+associated deadline it is more crucial. There are specialized algorithms for the
+purpose.  As a part of the project, I will be doing performance evaluation of
+these algorithms.
+To considate my knowledge in my field of interest, I had credited the course
+Advances in Database Technology in the fall semester. The course involved
+the study of various classic papers in Databases. I presented a seminar on Main
+Memory Databases as a part of the course. I am also crediting a course on
+Distributed Databases in the Spring semester. I am also an active member
+of SIGDB ( Special Interest Group in Databases ) of the institute, which keeps
+me fully informed about the latest development in Databases. I have presented
+some latest papers during its meetings.
+
+
+
+Teaching Experience
+
+I was a teaching assistant for the fresher's course CS101: Computer Pro-
+gramming and Utilization during Fall 93. I was also an organiser during unix
+workshops and C language workshop conducted by students of our department.
+This has made me confident that I will prove to be a very good teacher.
+
+
+Reasons for selecting University of Wisconsin
+
+Your university is considered to be one of the best universities in databases
+research. Your faculty has distinguised researchers in the field of databases. I
+am also familiar with some of the research papers published by them. My guide
+Dr.S.Seshadri, an alumnus of your university has encouraged me to apply here.
+As a result, I am very enthusiastic about joining your university for graduate
+studies.
+
+
+Summing Up
+
+I am aware of the hard work and perseverence necessary for research work
+and I know that it is not always as exciting as the published results
+seem to indicate. Nevertheless, I am sure that my aptitude and drive
+will see me through the challenge. Looking forward to joining University
+of Wisconsin at Madison.
+
+
+                                                    BRAJESH GOYAL
+
+  [ Part 42: "Attached Text" ]
+
+\documentstyle[11pt,a4]{article}
+\pagestyle{empty}
+\begin{document}
+\begin{center}
+{\Large \bf Statement of Purpose}
+\end{center}
+
+I was first introduced to computers through the elementary programming
+courses in my school days. In my high school I took Computer Science
+as an additional subject. This fascination for computers lead me to
+the {\bf Department of Computer Science and Engineering} at the {\bf Indian
+Institute of Technology, Bombay}, one of India's foremost educational
+institutes. The course structure, a good balance of theory and
+programming laboratories, and excellent faculty introduced me to the
+stimulating field of research. I got a complete exposure to the core
+fields of Computer Science and Mathematics. I started to enjoy the
+problem solving techniques and appreciate the pleasure of success
+after endless hours of frustrating work. All this has lead me to
+decide on a career of research and academics. 
+
+\
+
+Ten years from now I envisage myself doing active academic research in
+a good university. I believe that teaching a subject is the best way
+of learning the subject. Hence my immediate goal is to enter the
+Ph. D. program at {\bf Indiana University}.
+
+\
+
+My main fields of interest are {\bf Distributed Systems, Real Time Systems
+and Concurrent Programming Languages}. Presently I am doing my B. Tech
+project under Dr. S. Ramesh on implementation of the Communicating
+Reactive Processes(CRP) model. In the first stage of the project I
+have studied the various distributed algorithms for Communicating
+Sequential Processes implementation and other related fairness
+issues. An impossibility result regarding the problem has been proved
+and an algorithm has been proposed. I am planning to shape this into a
+journal paper. 
+
+\
+
+As part of the Operating Systems course I did a study of the Group
+Communication protocols in the Amoeba Distributed Operating
+System. Next semester I am crediting a post-graduate
+elective---Foundations of Parallel Computation. I am a student
+member of the IEEE computer society. I am also interested in Computer
+Architecture and had presented a home paper on the 6811 Motorola
+microcontroller. 
+
+\
+
+My decision to apply to {\bf Indiana University} is based on a careful
+examination of the department brochure, world wide web information and
+talking to my guide Dr. S. Ramesh. Indiana has a strong faculty in Programming
+Language Design. Entering the Ph. D. program here will be ideal for me.
+
+\
+
+My academic record reflects that I have always been a consistent
+performer. In school I was always in the top five of the class and in
+the Secondary Certificate Examination I stood second in my school. I
+secured 126th rank in the All India Joint Entrance Examination for
+IIT. At the end of my first year I was ranked 10th in the
+institute. After seven semesters I have a CGPA of 8.83/10.00 and I am
+in the top ten of my class.
+
+\
+
+I have been a tutor for a first year introductory course in
+Computers. This involved guidance of the students in the programming
+assignments and correction of papers. I enjoyed the experience and
+would love to teach. I also have been an organizer in UNIX workshops
+held in our department. 
+
+\
+
+I am a hardworking, steady and quiet person. My final aim is to be
+blissfully involved in Distributed Systems and Programming
+Languages. I hope I can join {\bf Indiana University} and achieve my dream. 
+
+
+\vspace {1cm}
+\begin {flushright}
+{\bf Chandrashekhar M Shetty}
+\end {flushright}
+
+\end{document}
+
+  [ Part 43: "Attached Text" ]
+
+(Message inbox:142)
+Return-Path: <biju>
+Received: by kailash.cse.iitb.ernet.in (4.1/SMI-4.1)
+	id AA23908; Thu, 8 Dec 94 19:11:48 GMT
+Date: Thu, 8 Dec 94 19:11:48 GMT
+From: biju (biju)
+Message-Id: <9412081911.AA23908@kailash.cse.iitb.ernet.in>
+Content-Type: text
+Content-Length: 4794
+Apparently-To: rahul
+
+(Message inbox:85)
+Return-Path: <ag@kailash>
+Received: by kailash.cse.iitb.ernet.in (4.1/SMI-4.1)
+	id AA07222; Mon, 5 Sep 94 12:31:38 IST
+Message-Id: <9409050701.AA07222@kailash.cse.iitb.ernet.in>
+To: rahul@kailash
+Subject: 
+Date: Mon, 05 Sep 94 12:31:37 +0530
+From: ag <ag@kailash>
+
+
+------- Forwarded Message
+
+Return-Path: <ag@kailash>
+Received: by kailash.cse.iitb.ernet.in (4.1/SMI-4.1)
+	id AA08681; Fri, 24 Jun 94 11:51:47 IST
+Message-Id: <9406240621.AA08681@kailash.cse.iitb.ernet.in>
+To: mdb@kailash, ashu@kailash
+Cc: ag@kailash
+Subject: sop
+Date: Fri, 24 Jun 94 11:51:46 +0530
+From: ag <ag@kailash>
+
+
+Imp points to note:
+
+0. Read the following BEFORE READING THE SOP.
+1. I have given this to many students.
+2. If two sops to a univ should never have anything in common.
+(this may be considered as cheating)
+3. See that not many students use the exact contents
+(sentences) in their sops (uniqueness and individuality are
+important aspects of a sop).
+4. V. IMP - make a sincere attempt of writin a sop or at least
+the points BEFORE U READ THIS (and get biased).
+5. I would not consider this sop as the best possible (it is
+slightly high-sounding). Many succesful people consider frank
+and simple sops as ideal.
+6. Reflect your personality and inclination in the sop.
+0. A good sop is a v. imp. determinant.
+
+hope it helps
+all the best
+- --ag
+- -----------------------------------------------------------------
+                Statement of Purpose
+
+My objective for graduate  studies  in  Computer  Science  is  to
+prepare  myself  for  the  long term goal of pursuing a career of
+teaching and research. 
+I have  nurtured  a  strong  passion  to
+become  a  scientist  and  pursue  research.  In  the  pursuit of
+knowledge , I have always adopted a rigorous approach in order to
+attain  an in-depth understanding of the subject at hand.This has
+amply  reflected  in  my  consistently  brilliant   career,always
+topping  the  class  and  having received numerous national level
+awards.With a GPA of 9.72 , I am ranked first at  the  IIT  among
+nearly 350 students. 
+
+
+I have been involved in  research  in  parallel  and  distributed
+computing  systems.I  studied  various  problems  in  distributed
+systems and distributed databases  including  deadlock  detection
+and  resolution  ,  termination detection , distributed snapshots
+and consistency.I  have  been  attracted  towards  the  field  of
+correctness  of parallel programs. I published a Technical Report
+reporting errors in two published deadlock  detection  algorithms
+and  highlights their underlying deficiencies with respect to the
+distributed nature of computation.  I am  also  involved  in  the
+development  of  an  optimizer generator which would automate the
+process of writing optimizers based on the specifications of  the
+optimizations.I  am  currently  engaged  in writing a paper on an
+efficient algorithm for performing global data-flow analysis. The
+new  algorithm  that  I  have  developed  utilizes  the notion of
+backward information flow to perform propagation using work-lists
+in  an  efficient  manner.  I  have  been  in correspondence with
+Professor J.D.Ullman about my algorithm and other aspects of  the
+problem.
+
+
+I have chosen to pursue graduate studies at  Stanford  University
+because  by  working  under  the  guidance  of  the distinguished
+researchers I am confident of making an original contribution  in
+the  field  of  Computer  Science.  My  interest  in research has
+burgeoned during my undergraduate studies at IIT. I have excelled
+in  our  the well-rounded  and exacting undergraduate program and
+have developed a solid background to take up research in Computer
+Science.             
+
+I have decided to go in for graduate studies which  calls  for  a
+personal  commitment   to  the  fulfilling  craft  of independent
+research and that involves willingly making  personal  sacrifices
+of time , leisure and immediate reward  .  In  turn  I shall  get
+intellectual  satisfaction  and  the gratification of becoming  a
+contributor  to   knowledge   through  research  and  the greater
+personal rewards of  learning  and  discovery.I  believe  that  I
+possess  the  motivation, intellectual ability and preparation to
+set  out  on  this  exhiliarating  and  arduous  path and to make
+significant original  contributions  to  your  on-going  research
+work.
+
+
+I look  forward  to  joining Stanford University as  a  graduate
+student at your esteemed department.
+
+                                                Amit Ganesh
+- -----------------------------------------------------------------
+
+replace all hiphens by space - convention (--ag)
+
+
+		____________________________
+		Amit Ganesh  @ kailash
+		email:	ag@cse.iitb.ernet.in
+		____________________________
+
+
+
+------- End of Forwarded Message
+
+
+
+  [ Part 44: "Attached Text" ]
+
+\documentstyle[12pt,mtp]{report}
+\begin {document}
+\chapter* {personal statement}
+
+
+I, Rakesh Barve, am in the final year of the four year {\it Bachelor of
+Technology} program  of the {\it Computer Science and Engineering} 
+program of the {\it Indian Institute of Technology, Bombay}.My career
+objectives lie in the pursuance of research and academics in theoretical
+computer science - especially in {\bf mathematical logic, automated 
+theorem proving,program correctness and semantics of programming
+languages}.I believe that graduate studies leading to a {\bf Ph.D}
+through research work of quality in these fields are a necessary step 
+towards my goal.
+
+
+The undergraduate courses of the CSE department of IIT have given me a 
+comprehensive exposure to all the core fields of computer science and 
+mathematics.Man's attempts at mathematically modelling objects of study
+and then using these models to reason, predict, draw new meanings and 
+interpretations have always fascinated me. Hence , in course of my 
+studies I've come to realize that I wish to pursue research and
+academics in the above mentioned areas of theorotical computer science.
+These areas, I believe are rapidly developing and offer great scope to
+one who is confident of producing fruitful work and coming up with 
+creative ideas.
+
+
+I have performed reasonably well in my undergraduate courses at IIT,but
+since IIT admits only the best students throughout the country, I 
+believe ,in view of the competitive atmosphere, that the grades secured
+should not be considered in an absolute sense.
+
+
+My interest in theoretical computer science has inspired me to carry out
+research and implementation in this subject, as can be seen from my 
+attached resume. Simultaneously , I have kept myself abreast with the 
+recent trends in research through literature surveys during projects,
+related to courses and otherwise. I have availed of every oppurtinity to
+learn more about my areas of interest. I have taken/have enrolled for a
+number of relevant courses offered by the computer science,mathematics
+and humanities departments. My senior thesis (home paper) {\bf PROGRAM
+VERIFICATION USING ALGEBRAIC METHODS} has given me a chance to explore
+these areas in greater depth (details in resume).All these activities
+have gone a long way towards making my background very strong in my 
+areas of interest.
+
+
+I have also had a good deal of teaching experience as can be seen from
+attached certificates. This experience convinced that I have the 
+communication skills and the ability to explain things precisely to
+become a teacher.
+
+
+My years at IIT have been enlightening ones but I need to constructively
+build up on what I've learned so far. {\bf Duke} ,I think is the ideal
+learned so far.Duke, I think, is an ideal choice towards this end.My 
+decision was based on a careful examination of the department brochures
+and information from faculty members and alumni. I have also 
+communicated with Dr.Henry Greenside ,Director of graduate studies of
+the Computer Science department.
+
+
+Duke has a stress on research-oriented study, flexibility and closer
+Professor-student relationships. I think that having such a sound
+academic environment at a reputed University such as Duke, with the work
+of a small group of teachers serving as a model, I will be able to 
+attain my true potential. Specifically I am keen to participate in the 
+ongoing research activity at Duke in the following fields:
+
+\begin {itemise}
+ {\item Finding efficient proof procedures for first order logic theorem
+ proving.}
+ {\item Reasoning in equational logics}
+ {\item Program correctness and program transformation}
+ \end {itemise}
+
+
+ I look forward to making my contributions to the advancement of
+ computer science - starting at Duke.
+\end {document}
+
+
+
+
+
+
+
+  [ Part 45: "Attached Text" ]
+
+\documentclass[12pt]{article}
+\usepackage{a4}
+\pagestyle{empty}
+\begin{document}
+\centerline{ \Large Statement of Purpose}
+\vspace{1cm}
+
+My undergraduate studies in the department of computer Science and
+Engg at IIT Bombay have exposed me to a stimulating academic
+environment where learning and research go together. Through the many
+opportunities I have had here. I have grown to love research work and
+have found that I have a strong aptitude for the kind of work that it
+involves. I have therefore decided to pursue active research as a
+career. It is with this objective in mind that I wish to enroll for
+the doctoral program in your university. 
+
+\
+
+I plan to study at the graduate level in the area of distributed
+computing, specifically the theory of asynchronous systems. I believe
+that theory and application in Computer Science go hand-in-hand. The
+study of theoretical aspects of distributed systems is essential for
+the successful development of applications for heterogeneous and
+fault-tolerant systems. The possibilities of research in this field 
+fascinate me. 
+
+\
+
+Recent research in the theory of asynchronous computation has yielded
+theorems describing the computability of tasks in asynchronous systems
+that can tolerate multiple failures. Attempts are also being made to
+completely characterize the power of various synchronization
+primitives in an asynchronous system. As part of my B.Tech project
+(senior thesis) under Dr.~S.~Ramesh I am currently working on
+extending these results to stronger synchronization primitives and
+exploring the possibility of utilizing some of these ideas to
+completely describe the power of concurrent objects. To further my
+understanding of these problems I have also enrolled myself for the
+graduate level course, {\em Foundations of Parallel Computation} under
+Dr.~Ranade.
+
+\
+
+I have excelled in academics at every step in my education. Throughout
+twelve years of schooling I have always been ranked among the top of
+my class. I was introduced to Computer Science in junior college. I
+was awarded the Merit Certificate for my performance in the All India
+Senior School Certificate Examination - {\bf 100\%} in Computer
+Science, {\bf 99\%} in Mathematics, Physics and Chemistry. I was also
+placed seventh in the state wide Physics Talent Test of the Physics
+Society, Madras. In the highly competitive entrance examination to the
+IITs I was ranked 134th among over 100,000 students. The broad
+curriculum at IIT Bombay provided me with a strong foundation in all
+branches of Computer Science. Of these I have pursued those which have
+particularly appealed to me. During the summer of 1994, I worked on a
+`learning' program for the game {\em Othello} using Neural Nets that I
+had initially developed as part of my course work. For my seminar
+(junior thesis) I studied {\em smart recompilation and incremental
+parsing techniques} under Dr.~Dhamdhare. Efficient implementation of
+these techniques can substantially reduce compilation time in large
+software systems.
+
+\
+
+I have also gained considerable teaching experience in IIT. I have
+been a course assistant for the Institute level freshman course,
+Computer Programming and Utilization for two consecutive years. I have
+also delivered lectures and given demonstrations on UNIX at various
+workshops conducted by the Computer Science and Engg. Association. All
+of these have been well received and have made me confident of
+developing into a very good teacher (I have also taken the Test for
+Spoken English in November 1995). I have worked for two months at
+ARCUS, Bangalore, a company that develops VLSI tools and also for
+Rational, USA at their third party development centre in Bangalore.
+
+\
+
+My undergraduate program has given me sufficient exposure to various
+avenues for research and I have chosen Distributed Computing for
+which I have both an aptitude and a liking.  A good graduate program
+is now essential for gaining a deeper insight and to make significant
+original contributions to this field. I am confident that I possess the
+motivation, intellectual ability and preparation to succeed in a
+demanding graduate program.
+
+\
+
+My interest in the theory of distributed computing makes UCLA a
+natural choice for graduate study.  Professor Eliezer Gafni is one of
+the leading researchers in this field and I have studied his work as
+part of my ongoing thesis and he has encouraged me to apply to your
+program.  Working under an expert whose work can serve as a model will
+set me on the path to contributing significantly to the ongoing
+research at UCLA.  The research interests of the other faculty members
+cover a large number of topics in Computer Science and this will
+enable me to keep in touch with the latest developments in these
+fields. The excellent facilities offered by your department will
+provide an environment conducive to successful graduate work. The
+faculty at IIT have also strongly recommended UCLA for pursuing
+graduate studies.
+
+\
+
+I look forward to joining UCLA as a graduate student at your esteemed
+department.
+
+\vspace{2cm}
+\begin{flushright}
+Anand V Panangadan
+\end{flushright}
+
+\end{document}
+

@@ -1,0 +1,123 @@
+\documentclass[12pt]{article}
+\usepackage{latexsym,a4wide}
+\begin{document}
+\parindent2.5em
+\begin{center}
+{\Huge \bf Statement of Purpose}
+\end{center}
+
+\ \\
+{\Large {\bf My goals}}\\
+
+	I, Ashwin Shrinivas, am applying to the University of Wisconsin,
+Madison for admission to the Ph.D. program in Computer Science. My goal
+is to pursue a career in research, either in industry or in academia.
+Ten years from now, I envisage myself as a full-fledged research
+professional in an organization, or a faculty member at one of the
+leading universities. A Ph.D. is an important first step in achieving
+this objective.
+
+\ \\
+{\Large {\bf My background}}\\
+
+Though I was exposed to some aspects of Computer Science in my
+last two years of school, a comprehensive foundation in all the fields
+of Computer Science began after I entered IIT Bombay. The Computer
+Science department at IIT Bombay is indisputably among the best in the 
+country. Its excellent courses, faculty and learning environment have
+given me a firm grounding in all the fields of Computer Science.
+
+My academic and co-curricular record has been consistently good.
+Throughout school as well as now, I have been at or near the top of my
+class. My class at IIT Bombay consists of 36 students, chosen from an
+All India exam involving 100,000 students. I myself was $9^{th}$ in that
+exam. I have listed some of my achievements on the attached resum\'{e}.
+
+I am of the opinion that research requires a firm grounding in theory
+backed up by an in-depth knowledge of systems and implementation. The
+important courses of {\em Discrete Structures}, {\em Data Structures \&
+Algorithms}, and {\em Theory of Computation} have given me a good
+knowledge of theory. In addition, I am doing the course {\em Design \&
+Analysis of Algorithms} this semester and {\em Parallel Algorithms} next
+semester, in order to further firm up my foundations. My performance in
+lab courses attests to my knowledge of systems and programming.
+
+My strengths are my consistency, capacity for hard work, and my ability
+to work in a team. I have been involved in many course projects which
+involved a group of students, and I have been the team leader in quite
+a few of these. I believe that research involves new ideas, as well as
+consistent effort to back them up, both of which I am capable of.
+
+\ \\
+{\Large {\bf My primary interests}}\\
+
+I prefer research problems to be an ideal mix of theory and practice.
+The field of {\bf Databases} interests me because of the scope for
+breaking new ground, as well as the vast applications possible. I
+believe that {\bf Distributed Databases}, in particular, is an area
+with a lot of potential. My grounding in this field is solid, which is
+reflected in my obtaining the best possible grade in both the courses
+involving Databases, namely, {\em Business Information Systems} and
+{\em Database Management Systems}, and in their respective labs too.
+Currently, I am working on my Senior Thesis under Dr. S. Seshadri,
+in which we are looking at the problem of {\em Garbage Collection in
+Persistent Object Stores}. We plan to submit it for publication after
+running some performance tests, which we are designing. I have included
+details in my resum\'{e}.
+
+\ \\
+{\Large {\bf Why Wisconsin-Madison ?}}\\
+
+Since all fields in Computer Science are highly interlinked, I want to
+pursue graduate studies at a University that is strong in all fields of
+Computer Science. I am aware that the department of Computer Science at
+the University of Wisconsin, Madison is one of the best in the world,
+being particularly strong in Databases (my primary interest).
+Dr. Seshadri, an alumnus of the university, also recommends it highly.
+These facts have led me to apply to the University of Wisconsin, Madison.
+
+There is one more ({\em and the most compelling}) reason. My Senior
+Thesis draws heavily upon related work by Dr. J. Naughton. We are 
+currently implementing our algorithm on the EXODUS Storage Manager,
+which itself was developed at the University of Wisconsin, Madison. I
+corresponded with Dr. Naughton, and his encouraging reply and
+description of the work at the department reinforced my decision to
+apply.
+
+\ \\
+{\Large {\bf Financial Aid}}\\
+
+I would be fully dependent on aid to finance my graduate studies. If I
+am granted an assistantship, then given my long term goals, a research
+assistantship would be an ideal experience for me. I have already 
+mentioned my interest in research. I also have some
+experience in teaching. I have been a lecturer \& demonstrator in
+student workshops held in various colleges in the region. I was also
+involved in a nationwide program which involved teaching school
+children. The good response to my efforts, coupled with my prowess in
+dramatics, elocution \& debating gives me the confidence to handle any
+teaching assignment.
+
+\ \\
+{\Large {\bf My plans if admitted}}\\
+
+I plan to carry on advanced study of Databases, as well as related
+fields (e.g. Algorithms), not only through coursework but also by
+{\em participating in one of the several ongoing projects}.
+This will also give me the opportunity to contribute my bit to the
+understanding of the fields which interest me so much.
+
+I am aware that the University of Wisconsin, Madison expects very high
+standards from its students. My track record gives me the confidence
+that I will be able to meet those expectations. I believe that my
+association with the Computer Science department will be a mutually
+profitable one.
+\vspace{4ex}
+\begin{flushright}
+
+Ashwin Shrinivas\\
+(S Ashwin)~~~~~\\
+
+\end{flushright}
+\end{document}
+

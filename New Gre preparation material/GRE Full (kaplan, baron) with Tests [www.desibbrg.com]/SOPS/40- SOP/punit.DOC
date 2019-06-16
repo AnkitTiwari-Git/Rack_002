@@ -1,0 +1,80 @@
+\documentstyle[a4wide,12pt]{letter}
+\pagestyle{empty}
+\newcommand{\Space}{\hspace{1cm}}
+\begin{document}
+
+\begin{center}
+{\Large \bf
+	Statement of Purpose
+}
+\end{center}
+
+
+ I, Punit Bhargava, am a final year student of the four year Bachelor 
+of Techonology (B.Tech.) program in Computer Science \& Engineering at 
+the Indian Institute Of Techonology (IIT),  one of the nation's 
+premier institutes. My long term career objective is to pursue a 
+research career, either as a faculty in a university or a researcher in
+industry and Graduate Study at your department would be the  first step towards this
+goal.
+
+
+  Since childhood I have had a strong inclination towards science. My excellent performance in academics inspired me to take up science as a career. 
+I therefore, took the  Joint  Entrance  Examination  for   admission to 
+the IITs and qualified in  the  top 0.12% of about 150,000 who took the 
+test.
+
+%I
+           The excellent course structure coupled  with  high academic 
+standard further stimulated my interest in scientific pursuit. My 
+approach  towards  courses  was  to  grasp the basic concepts so as to 
+develop a 'feel' for the subject. My grades reflect my attitude towards
+courses. As a part  of  curriculum  I  actively  participated  in many 
+innovative projects. As a result I have developed a keen interest and  have a sufficient aptitude for 
+research and therefore I believe that I shall be  capable of meeting the best standards in research. 
+
+%Interest
+Over  the  past  two  years  in  the  Computer Science 
+department, I have developed a keen  interest in  Programming Languages
+and Distributed \& Parallel Systems. I have taken many courses related 
+to this  field and have done cosistantly well in them. Courses such as
+ Programming Languages, Language Processors (Compilers), Operating 
+Systems 
+have given me considerable exposure to this field.
+I am taking a Graduate level Course on Parallel Algorithms next semester. 
+
+%Btp
+Currently I am involved in  my B.Tech. Project on ``Program Restructuring for GENSAT'' under the guidance of Dr. D.M. Dhamdhere. Details of the project
+are given in my resume. Presently I am implementing an algorithm by 
+Zahira Ammargulleat. I have proposed a few changes in her algorithm and 
+have proved that the new algorithm would do better than the one proposed
+by her, in all the cases. 
+
+
+A good deal of teaching experience, as seen in my resume, makes me 
+confident of my ability to communicate as a teacher.
+
+%univ
+%Computer Science at UIUC is one of the best programs to pursue research in the field of
+%systems. 
+
+>From the information brochure, web pages and as advised by my 
+ guide, Dr. Dhamdhere , I have gathered that a considerable amount of research is being 
+done in Systems in UIUC. A number of renowned faculty members of UIUC
+are working on the research frontiers of computer science. It would be 
+my privelige to work with such renowned researchers, and contribute something
+useful to Computer Science.
+
+
+%Conclusion
+ 
+  I look forward to joing UIUC as a Graduate student at your esteemed
+department.
+\vspace{25pt}
+
+                                                     {\bf Punit Bhargava}
+
+\end{document}
+% change the teachers para
+% do something about pedagogy
+% do ispell

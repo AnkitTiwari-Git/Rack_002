@@ -1,0 +1,122 @@
+\documentstyle[a4wide,12pt]{letter}
+\pagestyle{empty}
+\newcommand{\Space}{\hspace{1cm}}
+\begin{document}
+
+\begin{center}
+{\Large \bf
+	Statement of Purpose
+}
+\end{center}
+
+My aspiration to work at the frontiers of Scientific research leads me 
+to apply to your university. I believe that a comprehensive  knowledge 
+and a good grasp of fundamentals are essential for such  a  career.  I 
+feel that Graduate studies in Computer Science in a good  University  like 
+yours will help me realize this objective. Therefore I am seeking
+admission to the Ph.D.  program  at  
+Harvard  with a specialization in  Computer  Science.  
+I  have  compelling 
+reasons to believe that I will  be  extremely  successful  both  as  a 
+Graduate student and later as a researcher.
+
+%As  a  first  step  towards 
+%obtaining a Ph.D., I am seeking admission to the Master's  program  at 
+%Harvard University with a specialization in  Computer  Science.  I  would 
+%prefer doing a direct Ph.D., if it  is  possible.  I  have  compelling 
+
+My superlative performance in school fetched me a number of awards at 
+the national level. I was awarded the prestigious National Talent
+Search Scholarship in class ten.
+%and was in the top twenty five in the
+%National Standard Examination in Physics in my twelfth.
+I had developed a keen  interest  in  science  and 
+decided to choose it  as  my  career.  I  therefore,  took  the  Joint 
+Entrance Examination for admission to the  five  Indian  Institute  of 
+Technologies, which are  considered  the  best  academic  centers  for 
+science and Engineering in India and qualified  in  the  top  0.3\%  of 
+those who took the test.
+
+I have always adopted a rigorous approach in order to attain an in-depth 
+understanding of the subject at  hand.  This  has  given  me  a  broad 
+conceptual basis, which, I  believe,  is  essential  for  my  research 
+career.  My  grades  in  the  basic  courses  reflect  my  quest   for 
+fundamentals. My overall grades in my undergraduate studies have been good,
+but not excellent. This again reflects my approach to courses more as
+an introduction to concepts that need further independent study by the
+student, rather than as a run-up to a semester-end examination.
+
+Over the past two years in Computer Science I have developed a special 
+interest in {\bf Programming Languages and Distributed \& Parallel  Systems.}
+I have been involved in research in these areas and have  consistently 
+obtained good grades in the related courses. In Spring' 95, I will  be 
+taking two Graduate level courses in these fields namely  `Distributed 
+Databases' and `Advanced Compilers'. I have written an  article  on 
+``Distributed  File  Systems''  with  Prof.  M.R.  Bhujade  which appeared in  
+the September 1994 issue of {\bf CSI (Computer Society of India)
+Communications}. In this article  the  basic  concepts  underlying  the 
+design and  implementation aspects  were  discussed  and  contemporary 
+systems like Locus, Andrew and Unix United were surveyed in detail.
+
+I am currently working on  ``Register  Allocation  Algorithms''  for  my 
+B.Tech thesis under the guidance of Prof. D.M.Dhamdhere. In my  project 
+we have introduced a  technique of live range confinement 
+which adapts the live range of a data item to the availability of
+register. Instead of splitting a live range like in a  Chow-Hennessy
+allocator we are implementing the confinement technique. 
+Half way through the project we have already sent part of our work for the 
+{\bf ACM SIGPLAN'95
+Conference} on {\bf Programming Language Design and Implementation}
+sponsored by the {\bf Special Interest Group on Programming Languages,
+Association for Computing Machinery.}
+
+%I had also presented a course paper on language Linda  which  consists 
+%of operators that embody tuple space model  for  Parallel  programming 
+%and involves Distributed Data Structures.
+
+I have a reason also to be  confident of my abilities as a teacher. As
+part of a nation wide teaching program, I have taught school children
+subjects like Physics, Mathematics and English for four semesters (three
+hours per week). This was an interesting experience which I feel would
+stand in good stead in the future.
+
+I take immense pleasure in learning  new  concepts.  This  inquisitive 
+nature of mine along-with a desire to realize my full  potential  drive 
+me to pursue research. I am aware that  research  calls  for  complete 
+dedication and commitment. I consider myself to be mature, perceptive, 
+persistent and open  to  criticism %  qualities  which  I  believe  are 
+%essential for group research.
+
+%by working under the guidance of distinguished professors like Prof. A 
+%b ffffffffffffff, whose  interests  match  closely  with  mine,  I  am 
+%confident of making an original contribution to the field of  Computer 
+%Science. 
+
+
+I have studied in one of the best institutes of our country and feel
+the need to expose myself to research in United States which is
+currently a world leader in Computer Science.
+I have chosen to pursue Graduate studies at Harvard University because 
+the facilities at Harvard  seem to foster a healthy research
+environment as I could gather from the brochure of your department.
+I believe that I possess  the  motivation,  the  intellectual 
+ability, and the preparation to  set  out  on  this  exhilarating  and 
+arduous path, to do justice to a demanding Graduate program and to make 
+significant contributions to the ongoing work at your University.
+
+%I have chosen to pursue graduate studies at University of Maryland  because 
+%by working under the guidance of distinguished professors like Prof. A 
+%b ffffffffffffff, whose  interests  match  closely  with  mine,  I  am 
+%confident of making an original contribution to the field of  Computer 
+%Science. I believe that I possess  the  motivation,  the  intellectual 
+%ability, and the preparation to  set  out  on  this  exhilarating  and 
+%arduous path, to do justice to a demanding Graduate program and to make 
+%significant contributions to the ongoing work at your University.
+
+I look forward to joining Harvard University as  a  Graduate  student  at 
+your esteemed department.
+\vspace{25pt}
+
+                                                     {\bf Rahul Sharma}
+
+\end{document}
